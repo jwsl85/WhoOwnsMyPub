@@ -1,0 +1,2266 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.133662,51.463601 ]
+    },
+    "properties": {
+    "name":"Sixty/Four Cocktail Bar",
+    "add":"64 Clapham High Street, London",
+    "postcode":"SW4 7UL",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.116739,51.502565 ]
+    },
+    "properties": {
+    "name":"All Bar One",
+    "add":"1 Chicheley Street, London",
+    "postcode":"SE1 7PY",
+    "owner":"Mitchells & Butlers",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.141033,51.465364 ]
+    },
+    "properties": {
+    "name":"Apollo Arms",
+    "add":"13 - 19 Old Town, London",
+    "postcode":"SW4 0JT",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.123751,51.487976 ]
+    },
+    "properties": {
+    "name":"Ashtar Lounge",
+    "add":"Arches 80 To 81, Albert Embankment, London",
+    "postcode":"SE1 7TP",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.110076,51.502727 ]
+    },
+    "properties": {
+    "name":"Bar Elba (Roof Top)",
+    "add":"Mercury House, 109-117 Waterloo Road, London",
+    "postcode":"SE1 8UL",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"Changed name to Circe's",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.137833,51.461563 ]
+    },
+    "properties": {
+    "name":"Be At One Bar & Lounge",
+    "add":"4 Clapham Common South Side, London",
+    "postcode":"SW4 7AA",
+    "owner":"Stonegate",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.136916,51.466404 ]
+    },
+    "properties": {
+    "name":"Bread & Roses",
+    "add":"The Bread And Roses Public House, 68 Clapham Manor Street, London",
+    "postcode":"SW4 6DZ",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.111965,51.47096 ]
+    },
+    "properties": {
+    "name":"Brixton Jamm",
+    "add":"261 Brixton Road, London",
+    "postcode":"SW9 6LH",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127667,51.476545 ]
+    },
+    "properties": {
+    "name":"Cavendish Arms",
+    "add":"The Cavendish Arms, Hartington Road, London",
+    "postcode":"SW8 2HJ",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.102647,51.452968 ]
+    },
+    "properties": {
+    "name":"Commercial Hotel",
+    "add":"The Commercial Hotel, 210 - 212 Railton Road, London",
+    "postcode":"SE24 0JT",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.124799391,51.44507171 ]
+    },
+    "properties": {
+    "name":"Crown And Sceptre",
+    "add":"The Crown And Sceptre, Streatham Hill, London",
+    "postcode":"SW2 4AH",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"Under threat",
+    "website":"",
+    "history":"https://streathamhilltheatre.org/crown-sceptre-pub-development"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.11311,51.488928 ]
+    },
+    "properties": {
+    "name":"Duchy Arms",
+    "add":"The Duchy Arms, 63 Sancroft Street, London",
+    "postcode":"SE11 5UG",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.11943,51.486206 ]
+    },
+    "properties": {
+    "name":"Eagle London",
+    "add":"The Duke Of Cambridge Public House, 349 Kennington Lane, London",
+    "postcode":"SE11 5QY",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.132688,51.423595 ]
+    },
+    "properties": {
+    "name":"Earl Ferrers",
+    "add":"Earl Ferrers Public House, 22 Ellora Road, London",
+    "postcode":"SW16 6JF",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.113797,51.459704 ]
+    },
+    "properties": {
+    "name":"Effra Hall Tavern",
+    "add":"38A Kellett Road, London",
+    "postcode":"SW2 1EB",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.113474,51.455681 ]
+    },
+    "properties": {
+    "name":"Effra Social",
+    "add":"89 Effra Road, London",
+    "postcode":"SW2 1DF",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.135067,51.4715 ]
+    },
+    "properties": {
+    "name":"Feeleys Free House",
+    "add":"Feelys Free House, 99 Union Road, London",
+    "postcode":"SW8 2RF",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.118929,51.481224 ]
+    },
+    "properties": {
+    "name":"Fentiman Arms",
+    "add":"The Fentiman Arms, 64 Fentiman Road, London",
+    "postcode":"SW8 1LA",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.124989,51.463058 ]
+    },
+    "properties": {
+    "name":"Ferndales",
+    "add":"118 Ferndale Road, London",
+    "postcode":"SW4 7SE",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.113092,51.481679 ]
+    },
+    "properties": {
+    "name":"Hanover Arms",
+    "add":"The Hanover Arms, 326 Kennington Park Road, London",
+    "postcode":"SE11 4PP",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.113679,51.504107 ]
+    },
+    "properties": {
+    "name":"Hole In The Wall",
+    "add":"The Hole In The Wall, 5 Mepham Street, London",
+    "postcode":"SE1 8SQ",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.130168,51.42967 ]
+    },
+    "properties": {
+    "name":"Holland Tringham",
+    "add":"107 - 109 Streatham High Road, London",
+    "postcode":"SW16 1HJ",
+    "owner":"J.D. Wetherspoon",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.113474,51.455679 ]
+    },
+    "properties": {
+    "name":"Hootananny",
+    "add":"95 Effra Road, London",
+    "postcode":"SW2 1DF",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.128201,51.459485 ]
+    },
+    "properties": {
+    "name":"Hope & Anchor",
+    "add":"123 Acre Lane, London",
+    "postcode":"SW2 5UA",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.108196,51.490018 ]
+    },
+    "properties": {
+    "name":"The King's Arms",
+    "add":"The Little Apple, 98 Kennington Lane, London",
+    "postcode":"SE11 4XD",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.104401,51.435263 ]
+    },
+    "properties": {
+    "name":"Knowles Of Norwood",
+    "add":"294 - 298 Norwood Road, London",
+    "postcode":"SE27 9AF",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.12974,51.430751 ]
+    },
+    "properties": {
+    "name":"The White Lion",
+    "add":"The White Lion, 232 - 234 Streatham High Road, London, LONDON",
+    "postcode":"SW16 1BB",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.113795,51.461484 ]
+    },
+    "properties": {
+    "name":"Market House",
+    "add":"443 - 445 Coldharbour Lane, London",
+    "postcode":"SW9 8LN",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.140624,51.463037 ]
+    },
+    "properties": {
+    "name":"No32 The Old Town",
+    "add":"32 The Pavement, London",
+    "postcode":"SW4 0JE",
+    "owner":"Portobello",
+    "city":"Lambeth",
+    "notes":"Pub restaurant",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.126779,51.479795 ]
+    },
+    "properties": {
+    "name":"Nolan's Freehouse",
+    "add":"33 Wilcox Road, London",
+    "postcode":"SW8 2XA",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"Under redevelopment",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1054,51.489351 ]
+    },
+    "properties": {
+    "name":"Old Red Lion",
+    "add":"The Old Red Lion, 42 Kennington Park Road, London",
+    "postcode":"SE11 4RS",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.142174,51.46611 ]
+    },
+    "properties": {
+    "name":"Old Town Tavern",
+    "add":"29 North Street, London",
+    "postcode":"SW4 0HJ",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.146365,51.45365 ]
+    },
+    "properties": {
+    "name":"Perky Nel",
+    "add":"7-8 Cavendish Parade, Clapham Common South Side, London",
+    "postcode":"SW4 9DW",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.113089,51.461868 ]
+    },
+    "properties": {
+    "name":"Prince Albert",
+    "add":"The Prince Albert, 418 Coldharbour Lane, London",
+    "postcode":"SW9 8LF",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.126646,51.453507 ]
+    },
+    "properties": {
+    "name":"Prince Of Wales",
+    "add":"Prince Of Wales Public House, 169-171 Lyham Road, London",
+    "postcode":"SW2 5PY",
+    "owner":"Brakspear",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"https://brakspear.co.uk/pubs/prince-of-wales/",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.141772,51.464161 ]
+    },
+    "properties": {
+    "name":"Prince Of Wales",
+    "add":"The Prince Of Wales Public House, 38 Old Town, London",
+    "postcode":"SW4 0LB",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"https://www.powsw4.com/",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.108749,51.488129 ]
+    },
+    "properties": {
+    "name":"Prince Of Wales",
+    "add":"The Prince Of Wales Public House, 48 Cleaver Square, London",
+    "postcode":"SE11 4EA",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"https://www.princeofwaleskennington.co.uk/",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.129423,51.475008 ]
+    },
+    "properties": {
+    "name":"Priory Arms",
+    "add":"The Priory Arms Public House, 83 Lansdowne Way, London",
+    "postcode":"SW8 2PB",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":"https://pubwiki.co.uk/LondonPubs/Lambeth/PrioryArms.shtml"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.082772,51.42268 ]
+    },
+    "properties": {
+    "name":"Railway Bell",
+    "add":"Railway Bell Public House, 14 Cawnpore Street, London",
+    "postcode":"SE19 1PF",
+    "owner":"Greene King",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.10572,51.439897 ]
+    },
+    "properties": {
+    "name":"Railway Tavern",
+    "add":"The Railway Tavern, 7 Station Rise, London",
+    "postcode":"SE27 9BW",
+    "owner":"independently owned and managed by Mato Events",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.141425,51.463499 ]
+    },
+    "properties": {
+    "name":"Rose & Crown",
+    "add":"2 The Polygon, London",
+    "postcode":"SW4 0JG",
+    "owner":"Polygon Public House Limited",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.11943,51.486206 ]
+    },
+    "properties": {
+    "name":"Mc & Sons",
+    "add":"355 Kennington Lane, London",
+    "postcode":"SE11 5QY",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"Name changed from Royal Oak to Mc & Sons",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.116739,51.502565 ]
+    },
+    "properties": {
+    "name":"Slug & Lettuce",
+    "add":"The Slug And Lettuce, Chicheley Street, London",
+    "postcode":"SE1 7PY",
+    "owner":"Stonegate",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.111819,51.462631 ]
+    },
+    "properties": {
+    "name":"Kraft Brixton",
+    "add":"43 - 44 Granville Arcade, Coldharbour Lane, London",
+    "postcode":"SW9 8PR",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"https://www.kraftbrixton.com/",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.128622,51.435122 ]
+    },
+    "properties": {
+    "name":"The Rebel Inn",
+    "add":"78A-78B Streatham High Road, London",
+    "postcode":"SW16 1BS",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.137848,51.461563 ]
+    },
+    "properties": {
+    "name":"The Alexandra",
+    "add":"14 Clapham Common South Side, London",
+    "postcode":"SW4 7AA",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.106685,51.503518 ]
+    },
+    "properties": {
+    "name":"The Anchor And Hope",
+    "add":"36 The Cut, London",
+    "postcode":"SE1 8LP",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.118855,51.485126 ]
+    },
+    "properties": {
+    "name":"The Beehive",
+    "add":"51 Durham Street, London",
+    "postcode":"SE11 5JA",
+    "owner":"Asif Aziz",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.114292,51.463768 ]
+    },
+    "properties": {
+    "name":"The Beehive",
+    "add":"407 Brixton Road, London",
+    "postcode":"SW9 7DG",
+    "owner":"JD Wetherspoon",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.137544,51.46172 ]
+    },
+    "properties": {
+    "name":"The Belle Vue",
+    "add":"1 Clapham Common South Side, London",
+    "postcode":"SW4 7AA",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.121082,51.488759 ]
+    },
+    "properties": {
+    "name":"The Black Dog",
+    "add":"112 Vauxhall Walk, London",
+    "postcode":"SE11 5ER",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.112111,51.489738 ]
+    },
+    "properties": {
+    "name":"The Black Prince",
+    "add":"6 Black Prince Road, London",
+    "postcode":"SE11 6HS",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.14348,51.466086 ]
+    },
+    "properties": {
+    "name":"The Tim Bobbin",
+    "add":"1 - 3 Lillieshall Road, London",
+    "postcode":"SW4 0LN",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.091538,51.430099 ]
+    },
+    "properties": {
+    "name":"The Bricklayers Arms",
+    "add":"1 Hamilton Road, London",
+    "postcode":"SE27 9RZ",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.113092,51.481679 ]
+    },
+    "properties": {
+    "name":"The Derby",
+    "add":"336 Kennington Park Road, London",
+    "postcode":"SE11 4PP",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"Renamed",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.128294,51.41884 ]
+    },
+    "properties": {
+    "name":"The Bull",
+    "add":"498 Streatham High Road, London",
+    "postcode":"SW16 3QB",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1229,51.476765 ]
+    },
+    "properties": {
+    "name":"The Canton Arms",
+    "add":"The Canton Arms Public House, 177 South Lambeth Road, London",
+    "postcode":"SW8 1XP",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.128293,51.466744 ]
+    },
+    "properties": {
+    "name":"The Clapham North",
+    "add":"409 Clapham Road, London",
+    "postcode":"SW9 9BT",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.135654,51.464516 ]
+    },
+    "properties": {
+    "name":"The Clapham Tap",
+    "add":"128 Clapham Manor Street, London",
+    "postcode":"SW4 6ED",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.131252,51.459858 ]
+    },
+    "properties": {
+    "name":"The Coach & Horses",
+    "add":"The Coach And Horses, 173 - 175 Clapham Park Road, London",
+    "postcode":"SW4 7EX",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.114128,51.463558 ]
+    },
+    "properties": {
+    "name":"The Craft Beer Co",
+    "add":"11-13 Brixton Station Road, London",
+    "postcode":"SW9 8PA",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.110759,51.490032 ]
+    },
+    "properties": {
+    "name":"The Dog House",
+    "add":"Kennington Road, London",
+    "postcode":"SE11 6BY",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.119519,51.463375 ]
+    },
+    "properties": {
+    "name":"The Duke Of Edinburgh",
+    "add":"Duke Of Cambridge Public House, 204 Ferndale Road, London",
+    "postcode":"SW9 8AG",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.11026,51.501048 ]
+    },
+    "properties": {
+    "name":"The Duke Of Sussex",
+    "add":"23 Baylis Road, London",
+    "postcode":"SE1 7AY",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.129111,51.464338 ]
+    },
+    "properties": {
+    "name":"The Falcon",
+    "add":"33 Bedford Road, London",
+    "postcode":"SW4 7SQ",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.128232,51.436545 ]
+    },
+    "properties": {
+    "name":"The Five Bells",
+    "add":"68 - 70 Streatham High Road, London",
+    "postcode":"SW16 1DA",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.103028,51.452786 ]
+    },
+    "properties": {
+    "name":"The Florence",
+    "add":"131 - 133 Dulwich Road, London",
+    "postcode":"SE24 0NG",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.103399,51.478007 ]
+    },
+    "properties": {
+    "name":"The Golden Goose",
+    "add":"146 - 148 Camberwell New Road, London",
+    "postcode":"SE5 0RR",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.104103,51.430995 ]
+    },
+    "properties": {
+    "name":"The Great North Wood",
+    "add":"3 Knight's Hill, London",
+    "postcode":"SE27 0HS",
+    "owner":"Cityglen Pub Co",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.083703,51.423119 ]
+    },
+    "properties": {
+    "name":"The Great Southern",
+    "add":"79 Gipsy Hill, London",
+    "postcode":"SE19 1QH",
+    "owner":"Cityglen Pub Co",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.126811,51.447503 ]
+    },
+    "properties": {
+    "name":"The Hand In Hand",
+    "add":"61 New Park Road, London",
+    "postcode":"SW2 4EN",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.101694,51.43048 ]
+    },
+    "properties": {
+    "name":"The Hope",
+    "add":"The Hope Public House, 49 Norwood High Street, London",
+    "postcode":"SE27 9JS",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.104513,51.431182 ]
+    },
+    "properties": {
+    "name":"The Horns Tavern",
+    "add":"Knight's Hill, London",
+    "postcode":"SE27 0JD",
+    "owner":"Craft Union / Stonegate",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.113773,51.499729 ]
+    },
+    "properties": {
+    "name":"The Horse And Stables",
+    "add":"122 Westminster Bridge Road, London",
+    "postcode":"SE1 7RW",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.105983,51.479119 ]
+    },
+    "properties": {
+    "name":"The Kennington",
+    "add":"60 Camberwell New Road, London",
+    "postcode":"SE5 0RS",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.134028,51.459191 ]
+    },
+    "properties": {
+    "name":"The King & Co.",
+    "add":"The Kings Head, 100 Clapham Park Road, London",
+    "postcode":"SW4 7BZ",
+    "owner":"Portobello",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.109812,51.504576 ]
+    },
+    "properties": {
+    "name":"The Kings Arms",
+    "add":"25 Roupell Street, London",
+    "postcode":"SE1 8TB",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.125801,51.465715 ]
+    },
+    "properties": {
+    "name":"The Landor",
+    "add":"The Landor Public House, 70 Landor Road, London",
+    "postcode":"SW9 9PH",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.12575,51.429348 ]
+    },
+    "properties": {
+    "name":"The Leigham Well",
+    "add":"Leigham Arms, 1 - 3 Wellfield Road, London",
+    "postcode":"SW16 2BT",
+    "owner":"Stonegate",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.132827,51.427968 ]
+    },
+    "properties": {
+    "name":"The Manor Arms",
+    "add":"Mitcham Lane, London",
+    "postcode":"SW16 6LQ",
+    "owner":"Young's",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.105363,51.489343 ]
+    },
+    "properties": {
+    "name":"The Mansion House",
+    "add":"48 Kennington Park Road, London",
+    "postcode":"SE11 4RS",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.110241,51.507451 ]
+    },
+    "properties": {
+    "name":"The Mulberry Bush",
+    "add":"89 Upper Ground, London",
+    "postcode":"SE1 9PP",
+    "owner":"Young's",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.114042,51.49946 ]
+    },
+    "properties": {
+    "name":"The New Crown & Cushion",
+    "add":"The New Crown And Cushion Public House, 133-135 Westminster Bridge Road, London",
+    "postcode":"SE1 7HR",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.12865,51.478763 ]
+    },
+    "properties": {
+    "name":"The Nott",
+    "add":"257 Wandsworth Road, London",
+    "postcode":"SW8 2NB",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.087833,51.427539 ]
+    },
+    "properties": {
+    "name":"The Paxton",
+    "add":"255 Gipsy Road, London",
+    "postcode":"SE27 9QY",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.128449,51.467861 ]
+    },
+    "properties": {
+    "name":"The Phoenix",
+    "add":"348 Clapham Road, London",
+    "postcode":"SW9 9AR",
+    "owner":"Harvey's",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"https://www.harveys.org.uk/pub/phoenix",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.113545,51.48675 ]
+    },
+    "properties": {
+    "name":"The Pilgrim",
+    "add":"247 Kennington Lane, London",
+    "postcode":"SE11 5QU",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.113746,51.497238 ]
+    },
+    "properties": {
+    "name":"The Pineapple",
+    "add":"53 Hercules Road, London",
+    "postcode":"SE1 7DZ",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.114632,51.461794 ]
+    },
+    "properties": {
+    "name":"The Prince of Wales",
+    "add":"469 Brixton Road, London",
+    "postcode":"SW9 8HH",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.107573,51.454253 ]
+    },
+    "properties": {
+    "name":"The Prince Regent",
+    "add":"69 Dulwich Road, London",
+    "postcode":"SE24 0NJ",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.134347,51.418532 ]
+    },
+    "properties": {
+    "name":"The Railway",
+    "add":"Railway Hotel Public House, 2 Greyhound Lane, London",
+    "postcode":"SW16 5SD",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.132016,51.464411 ]
+    },
+    "properties": {
+    "name":"The Railway Tavern",
+    "add":"18 Clapham High Street, London",
+    "postcode":"SW4 7UR",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.125881,51.485545 ]
+    },
+    "properties": {
+    "name":"The Riverside",
+    "add":"5 St George Wharf, London",
+    "postcode":"SW8 2LE",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.12266,51.489621 ]
+    },
+    "properties": {
+    "name":"The Rose",
+    "add":"35 Albert Embankment, London",
+    "postcode":"SE1 7TL",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.094201,51.435718 ]
+    },
+    "properties": {
+    "name":"The Rosendale",
+    "add":"65 Rosendale Road, London, LONDON",
+    "postcode":"SE21 8EZ",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.119719,51.486534 ]
+    },
+    "properties": {
+    "name":"The Royal Vauxhall Tavern",
+    "add":"372 Kennington Lane, London",
+    "postcode":"SE11 5HY",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.133661,51.4636 ]
+    },
+    "properties": {
+    "name":"The Ox",
+    "add":"50 Clapham High Street, London",
+    "postcode":"SW4 7UL",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"Renamed",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.107557,51.501266 ]
+    },
+    "properties": {
+    "name":"The Stage Door Pub & Kitchen",
+    "add":"30 Webber Street, London",
+    "postcode":"SE1 8QA",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.112581,51.497183 ]
+    },
+    "properties": {
+    "name":"The Steam Engine",
+    "add":"41 - 42 Cosser Street, London",
+    "postcode":"SE1 7BU",
+    "owner":"PubLove",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.136954,51.464427 ]
+    },
+    "properties": {
+    "name":"The Stonhouse",
+    "add":"165 Stonhouse Street, London",
+    "postcode":"SW4 6BJ",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.124314,51.448956 ]
+    },
+    "properties": {
+    "name":"The Sultan",
+    "add":"The Sultan Public House, 37-39 New Park Road, London",
+    "postcode":"SW2 4DU",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.140924,51.464139 ]
+    },
+    "properties": {
+    "name":"The Sun",
+    "add":"47 Old Town, London",
+    "postcode":"SW4 0JL",
+    "owner":"Mitchell & Butlers",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.095762,51.469682 ]
+    },
+    "properties": {
+    "name":"The Sun Of Camberwell",
+    "add":"61 - 63 Coldharbour Lane, London",
+    "postcode":"SE5 9NS",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.131449,51.474429 ]
+    },
+    "properties": {
+    "name":"The Surprise",
+    "add":"16 Southville, London",
+    "postcode":"SW8 2PP",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.122451,51.472037 ]
+    },
+    "properties": {
+    "name":"The Swan",
+    "add":"2A Stockwell Road, London",
+    "postcode":"SW9 9BF",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.110515,51.49421 ]
+    },
+    "properties": {
+    "name":"The Tankard",
+    "add":"111 Kennington Road, London",
+    "postcode":"SE11 6SF",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.111354,51.496902 ]
+    },
+    "properties": {
+    "name":"The Three Stags",
+    "add":"67 - 69 Kennington Road, London",
+    "postcode":"SE1 7PZ",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.11043,51.488948 ]
+    },
+    "properties": {
+    "name":"The Tommyfield",
+    "add":"185 Kennington Lane, London",
+    "postcode":"SE11 4EZ",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.087833,51.427539 ]
+    },
+    "properties": {
+    "name":"The Two Towers",
+    "add":"201 Gipsy Road, London",
+    "postcode":"SE27 9QY",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.113271,51.503157 ]
+    },
+    "properties": {
+    "name":"The Victory Pub & Kitchen",
+    "add":"1, The Balcony, Waterloo Station, London",
+    "postcode":"SE1 7LY",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.113699,51.499782 ]
+    },
+    "properties": {
+    "name":"The Walrus",
+    "add":"172 Westminster Bridge Road, London",
+    "postcode":"SE1 7RW",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.111763,51.504095 ]
+    },
+    "properties": {
+    "name":"The Wellington Hotel",
+    "add":"81 - 83 Waterloo Road, London",
+    "postcode":"SE1 8UD",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.108028,51.48675 ]
+    },
+    "properties": {
+    "name":"The White Bear",
+    "add":"138 Kennington Park Road, London",
+    "postcode":"SE11 4DJ",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.119982,51.45492 ]
+    },
+    "properties": {
+    "name":"The White Horse",
+    "add":"94 Brixton Hill, London",
+    "postcode":"SW2 1QN",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.120519,51.49313 ]
+    },
+    "properties": {
+    "name":"The Windmill",
+    "add":"44 Lambeth High Street, London",
+    "postcode":"SE1 7JS",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.108103,51.503046 ]
+    },
+    "properties": {
+    "name":"The Windmill",
+    "add":"86 The Cut, London",
+    "postcode":"SE1 8LW",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.122503,51.454529 ]
+    },
+    "properties": {
+    "name":"The Windmill",
+    "add":"22 Blenheim Gardens, Brixton Hill, London",
+    "postcode":"SW2 5BZ",
+    "owner":"Asif Aziz",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.145076,51.457595 ]
+    },
+    "properties": {
+    "name":"The Windmill",
+    "add":"Clapham Common South Side, London",
+    "postcode":"SW4 9DE",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.118787,51.461933 ]
+    },
+    "properties": {
+    "name":"Trinity Arms",
+    "add":"45 Trinity Gardens, London",
+    "postcode":"SW9 8DR",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.106215,51.441857 ]
+    },
+    "properties": {
+    "name":"Tulse Hill Hotel",
+    "add":"150 Norwood Road, London",
+    "postcode":"SE24 9AY",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.13654,51.465868 ]
+    },
+    "properties": {
+    "name":"The Bread And Roses",
+    "add":"68 Clapham Manor Street, London",
+    "postcode":"SW4 6DZ",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.111846,51.501049 ]
+    },
+    "properties": {
+    "name":"Vaulty Towers",
+    "add":"34 Lower Marsh, London",
+    "postcode":"SE1 7RG",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.138268,51.46362 ]
+    },
+    "properties": {
+    "name":"Venn Street Records",
+    "add":"78 Venn Street, London",
+    "postcode":"SW4 0AT",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.114828,51.50448 ]
+    },
+    "properties": {
+    "name":"Waterloo Tap",
+    "add":"Arch 147, Sutton Walk, London",
+    "postcode":"SE1 7ES",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.12982,51.431148 ]
+    },
+    "properties": {
+    "name":"The White Lion",
+    "add":"232 - 234 Streatham High Road, London",
+    "postcode":"SW16 1BB",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.119033,51.491649 ]
+    },
+    "properties": {
+    "name":"The Jolly Gardeners",
+    "add":"49-51 Black Prince Road, London",
+    "postcode":"SE11 6AB",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.088428,51.436847 ]
+    },
+    "properties": {
+    "name":"Alleyns head",
+    "add":"Alleyns Head, 75, Alleyn Park, London",
+    "postcode":"SE21 8BW",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.08882826321,51.42849527 ]
+    },
+    "properties": {
+    "name":"Gipsy Hill Brewing Company - Taproom",
+    "add":"Unit 5, 160 Hamilton Rd, Norwood, London ",
+    "postcode":"SE27 9SF",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1162376352,51.46342008 ]
+    },
+    "properties": {
+    "name":"London Beer Lab Taproom and Nano Brewery",
+    "add":"Arch 41, Railway Arches, Nursery Rd, London",
+    "postcode":"SW9 8BP",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1031463297,51.46476468 ]
+    },
+    "properties": {
+    "name":"Supercute Brewhouse",
+    "add":"Unit G1, Coldharbour Works, 245a Coldharbour Ln, London",
+    "postcode":"SW9 8RR",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1093365335,51.46350644 ]
+    },
+    "properties": {
+    "name":"Brixton Brewery Taproom",
+    "add":"Arch 548 Brixton Station Rd, London",
+    "postcode":"SW9 8PF",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.101532802,51.44817732 ]
+    },
+    "properties": {
+    "name":"Bullfinch Brewery",
+    "add":"Rosendale Rd, Norwood, London",
+    "postcode":"SE24 9EH",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1124787247,51.49827114 ]
+    },
+    "properties": {
+    "name":"The Hercules",
+    "add":"2 Kennington Rd, London",
+    "postcode":"SE1 7BL",
+    "owner":"",
+    "city":"Lambeth",
+    "notes":"",
+    "website":"",
+    "history":""
+    }
+  }
+]
+}
