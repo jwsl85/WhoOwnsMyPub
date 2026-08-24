@@ -1,3 +1,15 @@
 {
-	"folders": []
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"[html]": {
+			"editor.inlineSuggest.enabled": false
+		},
+		"github.copilot.enable": {
+			"html": false
+		}
+	}
 }
