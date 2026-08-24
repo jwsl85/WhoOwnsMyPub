@@ -134,6 +134,7 @@
 
     <script>
     var map = L.map('map').setView([51.505, -0.09], 13);
+    
 
     function bubbleIcon(color) {
         return L.divIcon({
@@ -149,10 +150,18 @@
         });
     }
 
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    L.tileLayer('https://api.mapbox.com/styles/v1/pjie1992/cmt7iqobk007x01sh3s6qfvwm/tiles/{z}/{x}/{y}{r}?access_token=pk.eyJ1IjoicGppZTE5OTIiLCJhIjoiY21qNXZxc29hMTJxNDNnczhzZmE3cXJrNSJ9.LJ97byi_nyoS-LMS1L4dtw', {
         maxZoom: 19,
-        attribution: '&copy; OpenStreetMap contributors'
+        tileSize: 512,
+        zoomOffset: -1,
+        attribution: '&copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a> &copy; OpenStreetMap contributors'
     }).addTo(map);
+
+
+    // L.tileLayer('https://api.mapbox.com/v4/mapbox.mapbox-streets-v8/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoicGppZTE5OTIiLCJhIjoiY21qNXZxc29hMTJxNDNnczhzZmE3cXJrNSJ9.LJ97byi_nyoS-LMS1L4dtw', {
+    //     maxZoom: 19,
+    //     attribution: '&copy; OpenStreetMap contributors'
+    // }).addTo(map);
 
     fetch('Lambeth_pubsFinal.xlsx - Sheet1.geojson')
     .then(response => response.json())
