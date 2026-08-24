@@ -15,6 +15,8 @@
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
      crossorigin=""></script>
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 
     
     <style>
@@ -74,15 +76,31 @@
   <a href="#contact">Contact</a>
 </div> -->
 
-<div class="main flex flex-col h-full px-4">
+<div class="main relative w-full h-full">
 
-    <header class="header flex justify-between p-4  my-4 ">
+    <!-- <header class="header flex justify-between p-4  my-4 ">
         <h2 class="text-2xl">Story</h2>
         <h1 class="font-bold text-3xl">Who Owns My Pub?</h1>
         <h2 class="text-2xl">About</h2>
-    </header>
+    </header> -->
 
-    <div id="map" class="map h-full w-full pb-4 mb-4"></div>
+    <div class="navbar bg-base-100 shadow-sm w-11/12 mx-auto rounded-lg mt-4 absolute top-0 left-0 right-0 z-[1000]">
+        <div class="flex-none">
+            <button class="btn btn-square btn-ghost">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="inline-block h-5 w-5 stroke-current"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path> </svg>
+            </button>
+        </div>
+        <div class="flex-1 text-center">
+            <a class="btn btn-ghost text-xl">Who Owns My Pub?</a>
+        </div>
+        <div class="flex-none">
+            <button class="btn btn-square btn-ghost">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="inline-block h-5 w-5 stroke-current"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12h.01M12 12h.01M19 12h.01M6 12a1 1 0 11-2 0 1 1 0 012 0zm7 0a1 1 0 11-2 0 1 1 0 012 0zm7 0a1 1 0 11-2 0 1 1 0 012 0z"></path> </svg>
+            </button>
+        </div>
+    </div>
+
+    <div id="map" class="map h-full w-full "></div>
     </div>
 
     <script>
@@ -97,7 +115,37 @@
     .then(response => response.json())
     .then(data => {
 
+       
+
         L.geoJSON(data, {
+            pointToLayer: function (feature, latlng) {
+                const owner = feature.properties.owner;
+                var color = '#3388ff'; // Default color
+
+                if (owner === 'Greene King') {
+                    color = '#005A40';
+                } else if (owner === "Young's") {
+                    color = '#DFC026';
+                } else if (owner === 'Fuller Smith & Turner') {
+                    color = '#C8102E';
+                } else if (owner === 'Mitchells & Butlers') {
+                    color = '#d97706';
+                } else if (owner === 'Stonegate') {
+                    color = '#99927f';
+                } 
+
+                return L.circleMarker(latlng, {
+                    radius: 8,
+                    fillColor: color,
+                    color: '#000',
+                    weight: 1,
+                    opacity: 1,
+                    fillOpacity: 0.8,
+                    interactive: true
+                });
+            },
+
+
             onEachFeature: function(feature, layer) {
 
                 if (feature.properties) {
@@ -118,6 +166,33 @@
     .then(response => response.json())
     .then(data => {
         L.geoJSON(data, {
+            pointToLayer: function (feature, latlng) {
+             const owner = feature.properties.owner;
+             var color = '#3388ff'; // Default color
+
+             if (owner === 'Greene King') {
+                 color = '#005A40';
+             } else if (owner === "Young's") {
+                 color = '#DFC026';
+             } else if (owner === 'Fuller Smith & Turner') {
+                 color = '#C8102E';
+             } else if (owner === 'Mitchells & Butlers') {
+                 color = '#d97706';
+             } else if (owner === 'Stonegate') {
+                 color = '#99927f';
+             } 
+
+             return L.circleMarker(latlng, {
+                 radius: 8,
+                 fillColor: color,
+                 color: '#000',
+                 weight: 1,
+                 opacity: 1,
+                 fillOpacity: 0.8,
+                 interactive: true
+             });
+            },
+
             onEachFeature: function(feature, layer){
                 if (feature.properties){
                     layer.bindPopup(
@@ -136,6 +211,34 @@
     .then(response => response.json())
     .then(data => {
         L.geoJSON(data, {
+
+            pointToLayer: function (feature, latlng) {
+             const owner = feature.properties.owner;
+             var color = '#3388ff'; // Default color
+
+             if (owner === 'Greene King') {
+                 color = '#005A40';
+             } else if (owner === "Young's") {
+                 color = '#DFC026';
+             } else if (owner === 'Fuller Smith & Turner') {
+                 color = '#C8102E';
+             } else if (owner === 'Mitchells & Butlers') {
+                 color = '#d97706';
+             } else if (owner === 'Stonegate') {
+                 color = '#99927f';
+             } 
+
+             return L.circleMarker(latlng, {
+                 radius: 8,
+                 fillColor: color,
+                 color: '#000',
+                 weight: 1,
+                 opacity: 1,
+                 fillOpacity: 0.8,
+                 interactive: true
+             });
+            },
+
             onEachFeature: function(feature, layer){
                 if (feature.properties){
                     layer.bindPopup(
