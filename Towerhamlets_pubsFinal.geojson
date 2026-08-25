@@ -1,0 +1,2588 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "93 Feet East",
+        "add": "150 Brick Lane, London",
+        "postcode": "E1 6RU",
+        "owner": "n/a",
+        "status": "open",
+        "lat": 51.521731,
+        "long": -0.071522,
+        "city": "Tower Hamlets",
+        "notes": "Nightclub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.071522,
+          51.521731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albert",
+        "add": "Albert Public House, 74 St Stephens Road, London",
+        "postcode": "E3 5JL",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.532679,
+        "long": -0.032231,
+        "city": "Tower Hamlets",
+        "notes": "Craft Union Pub Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.032231,
+          51.532679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Approach Tavern",
+        "add": "47 Approach Road, London",
+        "postcode": "E2 9LY",
+        "owner": "Remarkable pubs",
+        "status": "open",
+        "lat": 51.531279,
+        "long": -0.051799,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.051799,
+          51.531279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artful Dodger",
+        "add": "47 Royal Mint Street, London",
+        "postcode": "E1 8LG",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.510289,
+        "long": -0.070795,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.070795,
+          51.510289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baba G's",
+        "add": "The Star of Bethnal Green, 359 Bethnal Green Road, London",
+        "postcode": "E2 6LG",
+        "owner": "Electric Star",
+        "status": "open",
+        "lat": 51.526915,
+        "long": -0.062157,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.062157,
+          51.526915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Backyard Bar",
+        "add": "231-237 Cambridge Heath Road, London",
+        "postcode": "E2 0EL",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.526472,
+        "long": -0.055839,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.055839,
+          51.526472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bancroft Arms",
+        "add": "Bancroft Arms, 410 Mile End Road, London",
+        "postcode": "E1 4RQ",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.522782,
+        "long": -0.040038,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.040038,
+          51.522782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bethnal Green Tavern",
+        "add": "456 Bethnal Green Road, London",
+        "postcode": "E2 0EA",
+        "owner": "Misty Moon Management Company",
+        "status": "open",
+        "lat": 51.527051,
+        "long": -0.057688,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.057688,
+          51.527051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Billy Bootleggers",
+        "add": "202 Brick Lane, London",
+        "postcode": "E1 6SA",
+        "owner": "Independent",
+        "status": "closed",
+        "lat": 51.524165,
+        "long": -0.071391,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.071391,
+          51.524165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blind Beggar",
+        "add": "The Blind Beggar, 337-341 Whitechapel Road, London",
+        "postcode": "E1 1BU",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.520027,
+        "long": -0.05767,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05767,
+          51.520027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boom Battle Bar Aldgate East",
+        "add": "19 Chaucer Gardens, London",
+        "postcode": "E1 8QG",
+        "owner": "Boom Battle Bar",
+        "status": "open",
+        "lat": 51.514489,
+        "long": -0.068561,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.068561,
+          51.514489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brown Bear",
+        "add": "Brown Bear Public House, 139 Leman Street, London",
+        "postcode": "E1 8EY",
+        "owner": "Brown Bear Pub Company",
+        "status": "open",
+        "lat": 51.511421,
+        "long": -0.068503,
+        "city": "Tower Hamlets",
+        "notes": "Freehold owner:  Heineken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.068503,
+          51.511421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Callaghans",
+        "add": "55 Chrisp Street, London",
+        "postcode": "E14 6LP",
+        "owner": "Stonegate",
+        "status": "closed",
+        "lat": 51.512979,
+        "long": -0.014272,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.014272,
+          51.512979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Captain Kidd",
+        "add": "Captain Kidd Public House, 108 Wapping High Street, London",
+        "postcode": "E1W 2NE",
+        "owner": "Samuel Smith",
+        "status": "open",
+        "lat": 51.503036,
+        "long": -0.060136,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.060136,
+          51.503036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carpenters Arms",
+        "add": "73 Cheshire Street, London",
+        "postcode": "E2 6EG",
+        "owner": "Friendship pub company",
+        "status": "open",
+        "lat": 51.524088,
+        "long": -0.066666,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.066666,
+          51.524088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castle",
+        "add": "44 Commercial Road, London",
+        "postcode": "E1 1LN",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.51488,
+        "long": -0.069419,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.069419,
+          51.51488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cherry",
+        "add": "359 Mile End Road, London",
+        "postcode": "E3 4QS",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.524769,
+        "long": -0.036248,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.036248,
+          51.524769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Commercial Tavern",
+        "add": "Commercial Tavern Public House, 142-144 Commercial Street, London",
+        "postcode": "E1 6NU",
+        "owner": "Urban Pubs and Bars",
+        "status": "open",
+        "lat": 51.521903,
+        "long": -0.076041,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.076041,
+          51.521903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dog & Truck",
+        "add": "72 Back Church Lane, London",
+        "postcode": "E1 1LX",
+        "owner": "Feeneys Irish Pub",
+        "status": "open",
+        "lat": 51.51301,
+        "long": -0.06676,
+        "city": "Tower Hamlets",
+        "notes": "Freehold owner:  Stonegate, Leasehold"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.06676,
+          51.51301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dorset Estate Social Club",
+        "add": "Dorset Social Club Above Dorset Library, Ravenscroft Street, London",
+        "postcode": "E2 7QX",
+        "owner": "Dorset Estate Social Club",
+        "status": "open",
+        "lat": 51.530092,
+        "long": -0.072496,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.072496,
+          51.530092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drapers Arms Bar & E1 Venue Bar",
+        "add": "432 Bancroft Road, London",
+        "postcode": "E1 4DH",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.523803,
+        "long": -0.043007,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.043007,
+          51.523803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duke of Wellington",
+        "add": "12-14 Toynbee Street, London",
+        "postcode": "E1 7NE",
+        "owner": "The Wellington Pub London Ltd",
+        "status": "open",
+        "lat": 51.517781,
+        "long": -0.074687,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.074687,
+          51.517781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eleanor Arms",
+        "add": "460 Old Ford Road, London",
+        "postcode": "E3 5JP",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.535013,
+        "long": -0.033082,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.033082,
+          51.535013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Festival Inn",
+        "add": "Festival Inn Public House, 71 Grundy Street, London",
+        "postcode": "E14 6AD",
+        "owner": "Independent",
+        "status": "closed",
+        "lat": 51.512399,
+        "long": -0.015666,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.015666,
+          51.512399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galvaniser's PH",
+        "add": "2 Devas Street, London",
+        "postcode": "E3 3FD",
+        "owner": "Antic",
+        "status": "closed",
+        "lat": 51.523564,
+        "long": -0.013307,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.013307,
+          51.523564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Good Samaritan",
+        "add": "87 Turner Street, London",
+        "postcode": "E1 2AE",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.517343,
+        "long": -0.061186,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.061186,
+          51.517343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goodmans Field",
+        "add": "Goodman Field Public House Gro, 87-91 Mansell Street, London",
+        "postcode": "E1 8AP",
+        "owner": "JD Wetherspoons",
+        "status": "open",
+        "lat": 51.511661,
+        "long": -0.072726,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.072726,
+          51.511661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hope & Anchor",
+        "add": "14 Newby Place, London",
+        "postcode": "E14 0EY",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.509305,
+        "long": -0.011896,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.011896,
+          51.509305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howling Hops",
+        "add": "Unit 9a Queens Yard, 43 White Post Lane, London",
+        "postcode": "E9 5EN",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.542965,
+        "long": -0.023163,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.023163,
+          51.542965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hungerford Arms",
+        "add": "240 Commercial Road, London",
+        "postcode": "E1 2NB",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.514444,
+        "long": -0.058282,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.058282,
+          51.514444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juju's",
+        "add": "15 Hanbury Street, London",
+        "postcode": "E1 6QR",
+        "owner": "Independent",
+        "status": "closed",
+        "lat": 51.520237,
+        "long": -0.073113,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.073113,
+          51.520237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kings Arms",
+        "add": "11a Buckfast Street, London",
+        "postcode": "E2 6EY",
+        "owner": "Independent",
+        "status": "closed",
+        "lat": 51.525376,
+        "long": -0.066294,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.066294,
+          51.525376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leman Street Tavern",
+        "add": "Unit 3 North West Block, Goodman's Fields, London",
+        "postcode": "E1 8PT",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.513706,
+        "long": -0.070235,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.070235,
+          51.513706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "London Hospital Tavern",
+        "add": "176 Whitechapel Road, London",
+        "postcode": "E1 1BJ",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.519329,
+        "long": -0.05734,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05734,
+          51.519329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mad George Tavern",
+        "add": "George Tavern, 373 Commercial Road, London",
+        "postcode": "E1 0LA",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.514346,
+        "long": -0.052925,
+        "city": "Tower Hamlets",
+        "notes": "Pauline Frost, disputed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.052925,
+          51.514346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marquis Of Cornwallis",
+        "add": "Marquis Of Cornwallis Public House, 304 Bethnal Green Road, London",
+        "postcode": "E2 0AG",
+        "owner": "Unknown",
+        "status": "closed",
+        "lat": 51.526268,
+        "long": -0.064742,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.064742,
+          51.526268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merchant & Weaver",
+        "add": "8a Lamb Street, London",
+        "postcode": "E1 6EA",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.520073,
+        "long": -0.075647,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.075647,
+          51.520073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mikkeller Bar London",
+        "add": "2-4 Hackney Road, London",
+        "postcode": "E2 7NS",
+        "owner": "Mikkeller",
+        "status": "open",
+        "lat": 51.52742,
+        "long": -0.076804,
+        "city": "Tower Hamlets",
+        "notes": "partly owned by Rick Astley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.076804,
+          51.52742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moretown Belle",
+        "add": "5 Thomas More Square, London",
+        "postcode": "E1W 1YW",
+        "owner": "Belle Pubs and Restaurants",
+        "status": "open",
+        "lat": 51.507634,
+        "long": -0.067924,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.067924,
+          51.507634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morgan Arms",
+        "add": "43 Morgan Street, London",
+        "postcode": "E3 5AA",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.527195,
+        "long": -0.034515,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.034515,
+          51.527195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mother Kelly's Bottle Shop & Tap Room",
+        "add": "Railway Arch 251, Paradise Row, London",
+        "postcode": "E2 9LE",
+        "owner": "Moontide",
+        "status": "open",
+        "lat": 51.528158,
+        "long": -0.056127,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.056127,
+          51.528158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nelsons Head PH",
+        "add": "32 Horatio Street, London",
+        "postcode": "E2 7SB",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.530867,
+        "long": -0.069896,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.069896,
+          51.530867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ninety One Living Room",
+        "add": "91 Brick Lane, London",
+        "postcode": "E1 6QL",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.521716,
+        "long": -0.072301,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.072301,
+          51.521716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perseverance",
+        "add": "Perseverance Public House, 110-112 Pritchards Road, London",
+        "postcode": "E2 9AP",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.534196,
+        "long": -0.062402,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.062402,
+          51.534196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poplar Blackwall & District Rowing Bar",
+        "add": "Ferry Street, London",
+        "postcode": "E14 3DT",
+        "owner": "Poplar, Blackwell & District Rowing Club",
+        "status": "open",
+        "lat": 51.486984,
+        "long": -0.01232,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.01232,
+          51.486984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prince Regent",
+        "add": "Prince Regent Public House, 81 Salmon Lane, London",
+        "postcode": "E14 7PR",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.514226,
+        "long": -0.036572,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.036572,
+          51.514226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Princess of Prussia",
+        "add": "15 Prescot Street, London",
+        "postcode": "E1 8AZ",
+        "owner": "Wellman Taverns",
+        "status": "open",
+        "lat": 51.511474,
+        "long": -0.070659,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.070659,
+          51.511474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prospect of Whitby",
+        "add": "57 Wapping Wall, London",
+        "postcode": "E1W 3SH",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.507202,
+        "long": -0.051068,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.051068,
+          51.507202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queens Head",
+        "add": "Queens Head Public House, 8 Flamborough Street, London",
+        "postcode": "E14 7LS",
+        "owner": "Beanie Project Limited",
+        "status": "open",
+        "lat": 51.513689,
+        "long": -0.038872,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.038872,
+          51.513689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royal Oak",
+        "add": "73 Columbia Road, London",
+        "postcode": "E2 7RG",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.529423,
+        "long": -0.069568,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.069568,
+          51.529423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sebright Arms",
+        "add": "Sebright Arms Public House, 31-35 Coate Street, London",
+        "postcode": "E2 9AG",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.532033,
+        "long": -0.063128,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.063128,
+          51.532033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sir Sydney Smith",
+        "add": "22 Dock Street, London",
+        "postcode": "E1 8JP",
+        "owner": "Sir Sydney Smith Limited",
+        "status": "open",
+        "lat": 51.510432,
+        "long": -0.068584,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.068584,
+          51.510432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Star In Liverpool",
+        "add": "94-98 Middlesex Street, London",
+        "postcode": "E1 7EZ",
+        "owner": "Electric Star",
+        "status": "open",
+        "lat": 51.516887,
+        "long": -0.076656,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.076656,
+          51.516887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Star of the East, Daddy\u201a\u00c4\u00f4s Dim Sum, Phikul",
+        "add": "805a Commercial Road, London",
+        "postcode": "E14 7HG",
+        "owner": "Enclave pubs",
+        "status": "open",
+        "lat": 51.512338,
+        "long": -0.029073,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.029073,
+          51.512338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Beehive",
+        "add": "104-106 Empson Street, London",
+        "postcode": "E3 3LT",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.521525,
+        "long": -0.013944,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.013944,
+          51.521525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bell PH",
+        "add": "50 Middlesex Street, London",
+        "postcode": "E1 7EX",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.515825,
+        "long": -0.075505,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.075505,
+          51.515825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Big Chill Bar",
+        "add": "Unit CG002, Dray Walk, London",
+        "postcode": "E1 6QL",
+        "owner": "Big Chill",
+        "status": "open",
+        "lat": 51.521716,
+        "long": -0.072301,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.072301,
+          51.521716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Birdcage",
+        "add": "80 Columbia Road, London",
+        "postcode": "E2 7QB",
+        "owner": "Urban Pubs and Bars",
+        "status": "open",
+        "lat": 51.52847,
+        "long": -0.07069,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: Trade press reports Urban Pubs & Bars acquired The Birdcage from BrewDog (administration) in January 2026. Source: https://www.morningadvertiser.co.uk/Article/2026/01/14/urban-pubs-bars-acquires-brewdogs-birdcage-pub/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07069,
+          51.52847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Black Horse",
+        "add": "40 Leman Street, London",
+        "postcode": "E1 8EU",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.512923,
+        "long": -0.070208,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.070208,
+          51.512923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bow Bells",
+        "add": "Bow Bells Public House, 116 Bow Road, London",
+        "postcode": "E3 3AA",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.527892,
+        "long": -0.020342,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.020342,
+          51.527892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Buxton",
+        "add": "42 Osborn Street, London",
+        "postcode": "E1 6TD",
+        "owner": "Robin Hood In London Ltd",
+        "status": "open",
+        "lat": 51.516903,
+        "long": -0.069954,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.069954,
+          51.516903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Camel Public House",
+        "add": "The Camel Public House, 277 Globe Road, London",
+        "postcode": "E2 0JD",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.528339,
+        "long": -0.051333,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.051333,
+          51.528339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Carpenters Arms",
+        "add": "The Carpenters Arms, 135 Cambridge Heath Road, London",
+        "postcode": "E1 5RN",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.523027,
+        "long": -0.055308,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.055308,
+          51.523027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Coborn",
+        "add": "6-8 Coborn Road, London",
+        "postcode": "E3 2DA",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.527222,
+        "long": -0.030217,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: WhatPub/CAMRA lists The Coborn as a \"Young's Pub\"; history confirms it was purchased by Young's in 1984. Source: https://whatpub.com/pubs/ELC/14364/coborn-bow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.030217,
+          51.527222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Craft Beer Co Limehouse",
+        "add": "576-578 Commercial Road, London",
+        "postcode": "E14 7JD",
+        "owner": "Punch Pubs & Co (Punch Taverns)",
+        "status": "open",
+        "lat": 51.512642,
+        "long": -0.0402,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: The Craft Beer Co. Limehouse (formerly The Railway Tavern) came under Punch Taverns ownership by 2010 and reopened as part of the Craft Beer Co. chain in 2016; renamed The Clement Attlee in 2025 but remains Punch-owned. Source: https://camra.org.uk/pubs/clement-attlee-limehouse-155215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0402,
+          51.512642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Crown",
+        "add": "223 Grove Road, London",
+        "postcode": "E3 5SN",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.531963,
+        "long": -0.042124,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: Local press reports The Crown, Grove Road reopened after refurbishment under the Young's pub chain. Source: https://romanroadlondon.com/crown-pub-reopens-refurbishment/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.042124,
+          51.531963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Crown",
+        "add": "The Crown Public House, 667 Commercial Road, London",
+        "postcode": "E14 7LW",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.512868,
+        "long": -0.038158,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.038158,
+          51.512868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Culpeper",
+        "add": "40 Commercial Street, London",
+        "postcode": "E1 6LP",
+        "owner": "The Culpeper Family",
+        "status": "open",
+        "lat": 51.516365,
+        "long": -0.072254,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: The Culpeper's own \"About us\" page confirms it was created in 2014 by Nico Treguer and Gareth Roberts with Bash Redford, the same team behind The Buxton, forming The Culpeper Family group. Source: https://www.theculpeper.com/about/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.072254,
+          51.516365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Dockers Inn",
+        "add": "97 Wapping Lane, London",
+        "postcode": "E1W 2RW",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.504914,
+        "long": -0.05728,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05728,
+          51.504914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Dundee Arms",
+        "add": "Dundee Arms Public House, 339 Cambridge Heath Road, London",
+        "postcode": "E2 9LH",
+        "owner": "London Ordinaries",
+        "status": "open",
+        "lat": 51.528507,
+        "long": -0.056041,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.056041,
+          51.528507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Ferry House",
+        "add": "Ferry House Public House, 26 Ferry Street, London",
+        "postcode": "E14 3DT",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.486983,
+        "long": -0.012319,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.012319,
+          51.486983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Florist Arms",
+        "add": "Florists Arms Public House, 255 Globe Road, London",
+        "postcode": "E2 0JD",
+        "owner": "Barley Pop",
+        "status": "open",
+        "lat": 51.528339,
+        "long": -0.051333,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.051333,
+          51.528339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The George",
+        "add": "114-114a Glengall Grove, London",
+        "postcode": "E14 3ND",
+        "owner": "Hippo Inns",
+        "status": "open",
+        "lat": 51.495719,
+        "long": -0.011983,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.011983,
+          51.495719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Golden Heart",
+        "add": "110 Commercial Street, London",
+        "postcode": "E1 6LZ",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.519923,
+        "long": -0.074222,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: Extensive press coverage (Spitalfields Life, Vice, Soho House) confirms landlady Sandra Esquilant has owned and run The Golden Heart for over 40 years as an independent pub. Source: https://spitalfieldslife.com/2019/07/20/forty-years-at-the-golden-heart/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.074222,
+          51.519923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Grapes PH",
+        "add": "The Grapes PH, 76 Narrow Street, London",
+        "postcode": "E14 8BP",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.508556,
+        "long": -0.03304,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: Multiple press sources confirm The Grapes is owned in partnership by Sir Ian McKellen, director Sean Mathias and Evgeny Lebedev, who bought it in 2011. Source: https://en.wikipedia.org/wiki/The_Grapes,_Limehouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.03304,
+          51.508556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Green Goose",
+        "add": "112 Anglo Road, London",
+        "postcode": "E3 5HD",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.532153,
+        "long": -0.028217,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: CAMRA/WhatPub lists Green Goose, Bow explicitly as a \"Young's Pub with Open Kitchen.\" Source: https://whatpub.com/pubs/ELC/14410/green-goose-bow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.028217,
+          51.532153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Greenwich Pensioner",
+        "add": "The Greenwich Pensioner, 28 Bazely Street, London",
+        "postcode": "E14 0ES",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.509752,
+        "long": -0.010665,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.010665,
+          51.509752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Griff Inn Bar & Kitchen",
+        "add": "BSLA Building (St Bartholomew & The Royal London School of Medicine & Dentistry), 4 Newark Street, London",
+        "postcode": "E1 2AT",
+        "owner": "Independent",
+        "status": "closed",
+        "lat": 51.51664,
+        "long": -0.062042,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.062042,
+          51.51664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Gun",
+        "add": "27 Cold Harbour, London",
+        "postcode": "E14 9NS",
+        "owner": "Fuller, Smith & Turner",
+        "status": "open",
+        "lat": 51.502425,
+        "long": -0.00757,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: ETM Group (Tom and Ed Martin), who restored and ran The Gun from 2004, sold it to Fuller, Smith & Turner in July 2016. Source: https://www.luxurylifestylemag.co.uk/food-and-drink/restaurant-review-the-gun-canary-wharf-in-london/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.00757,
+          51.502425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Gun",
+        "add": "54 Brushfield Street, London",
+        "postcode": "E1 6AG",
+        "owner": "Heineken",
+        "status": "open",
+        "lat": 51.518954,
+        "long": -0.076584,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.076584,
+          51.518954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Hare",
+        "add": "Hare Tavern Public House, 505 Cambridge Heath Road, London",
+        "postcode": "E2 9BU",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.533424,
+        "long": -0.057546,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.057546,
+          51.533424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Henry Addington",
+        "add": "Henry Addington, 22-28 Mackenzie Walk, London",
+        "postcode": "E14 4PH",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.504523,
+        "long": -0.02209,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: CAMRA/pub records describe the Henry Addington, Canary Wharf as one of Mitchells & Butlers' Nicholson's-branded pubs. Source: https://camra.org.uk/pubs/henry-addington-canary-wharf-155192"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.02209,
+          51.504523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Ledger Building",
+        "add": "Ledger Building, 4 Hertsmere Road, London",
+        "postcode": "E14 4AL",
+        "owner": "Wetherspoons",
+        "status": "open",
+        "lat": 51.507655,
+        "long": -0.023856,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: JD Wetherspoon's own pub-histories page confirms The Ledger Building, West India Quay is one of its pubs. Source: https://www.jdwetherspoon.com/pub-histories/the-ledger-building-docklands/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.023856,
+          51.507655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Lighthouse",
+        "add": "421 Wick Lane, London",
+        "postcode": "E3 2JG",
+        "owner": "Independent",
+        "status": "closed",
+        "lat": 51.535441,
+        "long": -0.021672,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.021672,
+          51.535441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Limehouse",
+        "add": "29-30 Fishermans Walk, London",
+        "postcode": "E14 4DH",
+        "owner": "Fuller, Smith & Turner",
+        "status": "open",
+        "lat": 51.50592,
+        "long": -0.021727,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: Fuller's own website blog announces \"The Limehouse opens in Canary Wharf\" as a Fuller's pub on Fisherman's Walk. Source: https://www.fullers.co.uk/blog/pubs-articles/limehouse-pub-opens-canary-wharf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.021727,
+          51.50592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Little Driver",
+        "add": "125 Bow Road, London",
+        "postcode": "E3 2AN",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.52771,
+        "long": -0.02394,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: Stonegate Group's own press release covers the refurbishment/reopening of The Little Driver, Bow, and it is listed on craftunionpubs.com. Sources: https://www.stonegategroup.co.uk/press/kick-off-at-the-little-driver-in-bow-as-it-reopens-following-refurbishment/ ; https://www.craftunionpubs.com/little-driver-bow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.02394,
+          51.52771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Lord Morpeth PH",
+        "add": "402 Old Ford Road, London",
+        "postcode": "E3 5NR",
+        "owner": "Independent",
+        "status": "closed",
+        "lat": 51.534421,
+        "long": -0.035833,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.035833,
+          51.534421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Lord Nelson",
+        "add": "Lord Nelson Public House, 1-1a Manchester Road, London",
+        "postcode": "E14 3BD",
+        "owner": "Heineken",
+        "status": "open",
+        "lat": 51.487506,
+        "long": -0.012354,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: Wharf Life and Star Pubs & Bars' own site describe new licensee Cara Venn leasing The Lord Nelson from Star Pubs & Bars, which is Heineken UK's leased-pub division. Sources: https://www.starpubs.co.uk/news/new-year-new-look-for-the-lord-nelson-isle-of-dogs ; https://wharf-life.com/interviews/isle-of-dogs-the-lord-nelson-pub-heineken-cara-venn-star-pubs-and-bars/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.012354,
+          51.487506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Lord Tredegar",
+        "add": "50 Lichfield Road, London",
+        "postcode": "E3 5AL",
+        "owner": "Remarkable Restaurants",
+        "status": "open",
+        "lat": 51.528618,
+        "long": -0.032536,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: The Lord Tredegar is described as part of the Remarkable Pubs group of 17 London pubs, the same operator as the Approach Tavern; reopened by Remarkable in 2012. Source: https://en.wikipedia.org/wiki/Lord_Tredegar,_Bow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.032536,
+          51.528618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Manor Arms",
+        "add": "150 East India Dock Road, London",
+        "postcode": "E14 0BP",
+        "owner": "Manor Arms Docklands Ltd",
+        "status": "open",
+        "lat": 51.51089,
+        "long": -0.015718,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.015718,
+          51.51089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Marksman",
+        "add": "254 Hackney Road, London",
+        "postcode": "E2 7SJ",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.530974,
+        "long": -0.068739,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: Multiple press sources (Hot Dinners, Hackney Gazette, Feast Magazine) confirm chefs Tom Harris and Jon Rotheram relaunched and continue to run The Marksman as an independent pub/dining room since 2015. Source: https://www.hot-dinners.com/Gastroblog/Latest-news/hackney-pub-the-marksman-to-be-relaunched-by-tom-harris-and-jon-rotheram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.068739,
+          51.530974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Old George",
+        "add": "Old George Public House, 379 Bethnal Green Road, London",
+        "postcode": "E2 0AN",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.527174,
+        "long": -0.05973,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05973,
+          51.527174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Old Ship",
+        "add": "The Old Ship Public House, 17 Barnes Street, London",
+        "postcode": "E14 7NW",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.513922,
+        "long": -0.039886,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.039886,
+          51.513922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Oliver Conquest",
+        "add": "70 Leman Street, London",
+        "postcode": "E1 8EU",
+        "owner": "Conquest Pubs",
+        "status": "closed",
+        "lat": 51.512923,
+        "long": -0.070208,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.070208,
+          51.512923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Owl & The Pussycat",
+        "add": "The Owl And The Pussycat Public House, 34 Redchurch Street, London",
+        "postcode": "E2 7DP",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.524307,
+        "long": -0.074513,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.074513,
+          51.524307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Palm Tree",
+        "add": "127 Grove Road, London",
+        "postcode": "E3 5RP",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.529221,
+        "long": -0.038969,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: Guardian and heritage sources report The Palm Tree has been run by the same family for over 40 years, a Grade II listed independent pub in Mile End Park. Source: https://bowheritagetrail.org/palm-tree-pub-mile-end-park/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.038969,
+          51.529221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Pigeon/Yeastie Boys",
+        "add": "26 Hanbury Street, London",
+        "postcode": "E1 6QR",
+        "owner": "Yeastie Boys",
+        "status": "closed",
+        "lat": 51.520237,
+        "long": -0.073113,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.073113,
+          51.520237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Pride Of Spitalfields",
+        "add": "3 Heneage Street, London",
+        "postcode": "E1 5LJ",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.519037,
+        "long": -0.070656,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.070656,
+          51.519037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Queen Adelaide",
+        "add": "483 Hackney Road, London",
+        "postcode": "E2 9ED",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.532482,
+        "long": -0.058741,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.058741,
+          51.532482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Redchurch",
+        "add": "107 Redchurch Street, London",
+        "postcode": "E2 7DL",
+        "owner": "Mad Cats",
+        "status": "open",
+        "lat": 51.524859,
+        "long": -0.072544,
+        "city": "Tower Hamlets",
+        "notes": "Listening bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.072544,
+          51.524859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Salmon & Ball",
+        "add": "Salmon And Ball, 502 Bethnal Green Road, London",
+        "postcode": "E2 0EA",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.52705,
+        "long": -0.057688,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.057688,
+          51.52705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Shakespeare",
+        "add": "The Shakespeare Public House, 460 Bethnal Green Road, London",
+        "postcode": "E2 0EA",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.52705,
+        "long": -0.057688,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.057688,
+          51.52705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Ship",
+        "add": "290 Westferry Road, London",
+        "postcode": "E14 3AG",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.488071,
+        "long": -0.018639,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.018639,
+          51.488071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Sipping Room",
+        "add": "16 Hertsmere Road, London",
+        "postcode": "E14 4EF",
+        "owner": "Drake & Morgan",
+        "status": "open",
+        "lat": 51.507118,
+        "long": -0.021329,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: Multiple listings confirm The Sipping Room at West India Quay (formerly The Bothy) is operated by hospitality group Drake & Morgan. Source: https://luxnomade.com/united-kingdom/food-guide-the-sipping-room-canary-wharf/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.021329,
+          51.507118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Star of Bethnal Green",
+        "add": "The Star Of Bethnal Green, 359 Bethnal Green Road, London",
+        "postcode": "E2 6LG",
+        "owner": "Electric Star",
+        "status": "open",
+        "lat": 51.526863,
+        "long": -0.062655,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: The Star of Bethnal Green is confirmed as the flagship venue of the Electric Star pub group, founded 2008 by \"Rob Star\"/Rob and Steve Marci. Source: https://electricstarpubs.co.uk/our-story"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.062655,
+          51.526863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Sun Tavern",
+        "add": "Sun Public House, 441 Bethnal Green Road, London",
+        "postcode": "E2 0AN",
+        "owner": "The Umbrella Project",
+        "status": "open",
+        "lat": 51.527174,
+        "long": -0.05973,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: The Caterer and other press confirm The Sun Tavern is the second bar from the Umbrella Project, the team behind Discount Suit Company; Companies House lists The Sun Tavern Bethnal Green Limited's directors. Sources: https://thenudge.com/london-bars/the-sun-tavern/ ; https://find-and-update.company-information.service.gov.uk/company/08755033/officers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05973,
+          51.527174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Ten Bells",
+        "add": "84 Commercial Street, London",
+        "postcode": "E1 6LY",
+        "owner": "London Beer Factory",
+        "status": "open",
+        "lat": 51.519087,
+        "long": -0.073695,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: The Caterer reports the East London Pub Company's Ten Bells was sold to brewery London Beer Factory for \u00a3900,000, completed June 2024, after the group's administration in November 2023. Source: https://www.thecaterer.com/news/all-pubs-owned-by-the-east-london-pub-company-sold-after-administration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.073695,
+          51.519087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Victoria",
+        "add": "110 Grove Road, London",
+        "postcode": "E3 5TH",
+        "owner": "Yummy Pub Company",
+        "status": "open",
+        "lat": 51.530618,
+        "long": -0.039702,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.039702,
+          51.530618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Victory",
+        "add": "The Victory Public House, 27 Vyner Street, London",
+        "postcode": "E2 9DQ",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.534575,
+        "long": -0.05483,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: Local sources state Auring Bones and her husband Stephen have owned and run The Victory since the early 1990s. Source: https://london.fandom.com/wiki/The_Victory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05483,
+          51.534575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The White Swan",
+        "add": "White Swan Public House, 21-23 Alie Street, London",
+        "postcode": "E1 8DA",
+        "owner": "Wellman Taverns",
+        "status": "open",
+        "lat": 51.513666,
+        "long": -0.07179,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: A Flickr pub-history caption and TripAdvisor listing describe the White Swan, Alie Street/Aldgate as \"a traditional Shepherd Neame pub,\" and the brewery's beers are served there. Source: https://www.flickr.com/photos/55935853@N00/2551291171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07179,
+          51.513666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tooke Arms",
+        "add": "Tooke Arms Public House, 165 Westferry Road, London",
+        "postcode": "E14 8NH",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.498097,
+        "long": -0.025537,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.025537,
+          51.498097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Town of Ramsgate",
+        "add": "62 Wapping High Street, London",
+        "postcode": "E1W 2PN",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.503374,
+        "long": -0.062096,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.062096,
+          51.503374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turners Old Star",
+        "add": "14 Watts Street, London",
+        "postcode": "E1W 2QG",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.505371,
+        "long": -0.059403,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.059403,
+          51.505371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Watermans Arms",
+        "add": "1 Glenaffric Avenue, London",
+        "postcode": "E14 3BW",
+        "owner": "Heineken",
+        "status": "open",
+        "lat": 51.488745,
+        "long": -0.006423,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: Star Pubs & Bars' (Heineken UK) own press release confirms Laura Lythall and Sam Hawkes took on a Star Pubs & Bars lease to reopen the Waterman's Arms on Glenaffric Avenue. Source: https://www.starpubs.co.uk/news/landmark-isle-dogs-pub-taken-over-east-london-operators"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.006423,
+          51.488745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Well and Bucket",
+        "add": "Well And Bucket Public House, 143 Bethnal Green Road, London",
+        "postcode": "E2 7DG",
+        "owner": "Urban Pubs and Bars",
+        "status": "open",
+        "lat": 51.525331,
+        "long": -0.071197,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: Well & Bucket is listed directly on Urban Pubs and Bars' own venues page, having been reopened by the Barworks/Urban chain in 2013. Source: https://www.urbanpubsandbars.com/venues/well-bucket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.071197,
+          51.525331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wentworth Arms",
+        "add": "Wentworth Arms, 127 Eric Street, London",
+        "postcode": "E3 4SR",
+        "owner": "Culleton & Friel Ltd",
+        "status": "open",
+        "lat": 51.523887,
+        "long": -0.033518,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.033518,
+          51.523887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Hart",
+        "add": "White Hart Public House, 1 Mile End Road, London",
+        "postcode": "E1 4TP",
+        "owner": "McMullen",
+        "status": "open",
+        "lat": 51.520436,
+        "long": -0.055202,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: McMullen's own pub-finder page lists the White Hart, Whitechapel (1 Mile End Road) as one of its pubs, having taken it over in September 2022. Source: https://www.mcmullens.co.uk/local-pub/white-hart-whitechapel/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.055202,
+          51.520436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Hart",
+        "add": "White Hart Public House, 89 Whitechapel High Street, London",
+        "postcode": "E1 7QX",
+        "owner": "McMullen",
+        "status": "open",
+        "lat": 51.515994,
+        "long": -0.070496,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: Coverage of this second White Hart (89 Whitechapel High Street) confirms it also passed to McMullen's in September 2022. Source: https://camra.org.uk/pubs/white-hart-london-155008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.070496,
+          51.515994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Swan",
+        "add": "White Swan, 556 Commercial Road, London",
+        "postcode": "E14 7JD",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.512642,
+        "long": -0.0402,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0402,
+          51.512642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Widows Son",
+        "add": "75 Devons Road, London",
+        "postcode": "E3 3PJ",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.522268,
+        "long": -0.018019,
+        "city": "Tower Hamlets",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.018019,
+          51.522268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wine Library",
+        "add": "All Hallows Parish House, 43 Trinity Square, London",
+        "postcode": "EC3N 4DJ",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.510404,
+        "long": -0.076713,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: The Wine Library's own materials describe it as independently owner-managed since 1999 (business established 1988). Source: https://thatsup.co.uk/london/bar/the-wine-library/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.076713,
+          51.510404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yeoman Warder Club",
+        "add": "Tower Of London, Tower Hill, London",
+        "postcode": "EC3N 4AE",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.508274,
+        "long": -0.076246,
+        "city": "Tower Hamlets",
+        "notes": "Confidence: High. Evidence: The Keys/Yeoman Warders Club inside the Tower of London is a private, non-commercial pub collectively run by the Tower's serving Yeomen Warders (Beefeaters) for themselves and guests, not operated by any pub company. Source: https://en.wikipedia.org/wiki/Yeoman_Warders_Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.076246,
+          51.508274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Young Prince",
+        "add": "448 Roman Road, London",
+        "postcode": "E3 5LU",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.531942,
+        "long": -0.033863,
+        "city": "Tower Hamlets",
+        "notes": "apparently needs to clean their beer lines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.033863,
+          51.531942
+        ]
+      }
+    }
+  ]
+}
