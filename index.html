@@ -161,13 +161,17 @@
             <span class="inline-block w-3 h-3 rounded-full shrink-0" style="background:#99927f"></span>
             <span>Stonegate</span>
         </div>
-        <div class="flex items-center gap-2">
+        <div class="flex items-center gap-2 mb-1">
             <span class="inline-block w-3 h-3 rounded-full shrink-0" style="background:#000000"></span>
             <span>JD Wetherspoon</span>
         </div>
-        <div class="flex items-center gap-2">
-            <span class="inline-block w-3 h-3 rounded-full shrink-0" style="background:#3388ff"></span>
+        <div class="flex items-center gap-2 mb-1">
+            <span class="inline-block w-3 h-3 rounded-full shrink-0" style="background:#800080"></span>
             <span>Other</span>
+        </div>
+        <div class="flex items-center gap-2 mb-1">
+            <span class="inline-block w-3 h-3 rounded-full shrink-0" style="background:#3388ff"></span>
+            <span>Independent</span>
         </div>
     </div>
 
@@ -253,6 +257,10 @@
                     color = '#99927f';
                 } else if (owner === 'JD Wetherspoon') {
                     color = 'black';
+                } else if (owner === 'Independent') {
+                    color = '#3388ff';
+                } else {
+                    color = '#800080';
                 }
 
                 return L.marker(latlng, {
@@ -298,6 +306,10 @@
                  color = '#99927f';
              } else if (owner === 'JD Wetherspoon') {
                  color = 'black';
+             } else if (owner === 'Independent') {
+                 color = '#3388ff';
+             } else {
+                 color = '#800080';
              }
 
              return L.marker(latlng, {
@@ -341,6 +353,10 @@
                  color = '#99927f';
              } else if (owner === 'JD Wetherspoon') {
                  color = 'black';
+             } else if (owner === 'Independent') {
+                 color = '#3388ff';
+             } else {
+                 color = '#800080';
              }
 
              return L.marker(latlng, {
@@ -383,6 +399,10 @@
                  color = '#99927f';
              } else if (owner === 'JD Wetherspoon') {
                  color = 'black';
+             } else if (owner === 'Independent') {
+                 color = '#3388ff';
+             } else {
+                 color = '#800080';
              }
 
              return L.marker(latlng, {
@@ -423,6 +443,10 @@
                  color = '#99927f';
              } else if (owner === 'JD Wetherspoon') {
                  color = 'black';
+             } else if (owner === 'Independent') {
+                 color = '#3388ff';
+             } else {
+                 color = '#800080';
              }
 
              return L.marker(latlng, {
@@ -503,6 +527,10 @@
                  color = '#99927f';
              } else if (owner === 'JD Wetherspoon') {
                 color = 'black';
+             } else if (owner === 'Independent') {
+                color = '#3388ff';
+             } else {
+                color = '#800080';
              }
 
              return L.marker(latlng, {
