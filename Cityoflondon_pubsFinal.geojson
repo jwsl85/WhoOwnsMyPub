@@ -1,0 +1,2924 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "47 Ludgate",
+        "add": "47 Ludgate Hill, London",
+        "postcode": "EC4M 7JZ",
+        "owner": "Evolv Group",
+        "status": "open",
+        "lat": 51.513837,
+        "long": -0.102525,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.102525,
+          51.513837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "All Bar One",
+        "add": "Public House, 16 Byward Street, London",
+        "postcode": "EC3R 5BA",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.509802,
+        "long": -0.078944,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: All Bar One is a Mitchells & Butlers brand. Source: https://www.mbplc.com/our-brands/ ; https://en.wikipedia.org/wiki/All_Bar_One"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.078944,
+          51.509802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "All Bar One",
+        "add": "Retail Unit, 103 Cannon Street, London",
+        "postcode": "EC4N 5AG",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.511761,
+        "long": -0.089843,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: All Bar One is a Mitchells & Butlers brand. Source: https://www.mbplc.com/our-brands/ ; https://en.wikipedia.org/wiki/All_Bar_One"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.089843,
+          51.511761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "All Bar One",
+        "add": "Retail Unit, 107 Houndsditch, London",
+        "postcode": "EC3A 7BD",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.515739,
+        "long": -0.079126,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: All Bar One is a Mitchells & Butlers brand. Source: https://www.mbplc.com/our-brands/ ; https://en.wikipedia.org/wiki/All_Bar_One"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.079126,
+          51.515739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Astronomer",
+        "add": "125-129 Middlesex Street, London",
+        "postcode": "E1 7JF",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.517782,
+        "long": -0.078622,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.078622,
+          51.517782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balls Brothers - Minster Court",
+        "add": "1 Minster Pavement, London",
+        "postcode": "EC3R 7PP",
+        "owner": "Mosaic Pub & Dining",
+        "status": "open",
+        "lat": 51.510817,
+        "long": -0.081063,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.081063,
+          51.510817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balls Brothers Austin Friars",
+        "add": "10-11 Austin Friars, London",
+        "postcode": "EC2N 2HG",
+        "owner": "Phoenix (City) Pub Company Ltd",
+        "status": "open",
+        "lat": 51.515716,
+        "long": -0.08531,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08531,
+          51.515716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barbican Bars",
+        "add": "Barbican Arts And Conference Centre, Silk Street, London",
+        "postcode": "EC2Y 8DS",
+        "owner": "City of London Corporation",
+        "status": "open",
+        "lat": 51.519822,
+        "long": -0.093931,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Bars within the Barbican Centre, which is owned, funded and managed by the City of London Corporation. Source: https://www.barbican.org.uk/our-story/our-people/governance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.093931,
+          51.519822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Be At One",
+        "add": "28 King William Street, London",
+        "postcode": "EC4R 9AT",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.510646,
+        "long": -0.087122,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Be At One is a Stonegate Group brand. Source: https://www.stonegategroup.co.uk/our-businesses/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.087122,
+          51.510646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Be At One",
+        "add": "45 Old Broad Street, London",
+        "postcode": "EC2N 1HT",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.515695,
+        "long": -0.084028,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Be At One is a Stonegate Group brand. Source: https://www.stonegategroup.co.uk/our-businesses/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.084028,
+          51.515695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bishops Finger",
+        "add": "The Bishops Finger Public House, 9-10 West Smithfield, London",
+        "postcode": "EC1A 9JR",
+        "owner": "Shepherd Neame",
+        "status": "open",
+        "lat": 51.518495,
+        "long": -0.101943,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Shepherd Neame's first London pub (bought early 1970s as the Rutland, renamed 1981). Sources: https://www.shepherdneame.co.uk/pub-week/pub-week-bishops-finger-smithfield-london ; https://camra.org.uk/pubs/bishops-finger-london-156264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.101943,
+          51.518495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brewdog",
+        "add": "1 Plough Place, London",
+        "postcode": "EC4A 1DE",
+        "owner": "BrewDog",
+        "status": "open",
+        "lat": 51.516728,
+        "long": -0.10892,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Own-brand BrewDog bar, operated by BrewDog plc. Source: https://www.brewdog.com/uk/bars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10892,
+          51.516728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Browns",
+        "add": "Retail Unit, 8-10 Old Jewry, London",
+        "postcode": "EC2R 8DN",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.514105,
+        "long": -0.090617,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Browns is a Mitchells & Butlers brand. Source: https://www.mbplc.com/our-brands/browns/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.090617,
+          51.514105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bunch of Grapes",
+        "add": "14 Lime Street, London",
+        "postcode": "EC3M 7AN",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.51234,
+        "long": -0.08342,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08342,
+          51.51234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candlemaker",
+        "add": "The Walbrook Building, 25 Walbrook, London",
+        "postcode": "EC4N 8AF",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.512,
+        "long": -0.090164,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.090164,
+          51.512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cannick Tapps",
+        "add": "109 Cannon Street, London",
+        "postcode": "EC4N 5AD",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.51175,
+        "long": -0.089699,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.089699,
+          51.51175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cheshire Cheese",
+        "add": "The Cheshire Cheese Public House, 48 Crutched Friars, London",
+        "postcode": "EC3N 2AP",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.511327,
+        "long": -0.078678,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.078678,
+          51.511327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Bar And Kitchen",
+        "add": "9 Stoney Lane, London",
+        "postcode": "E1 7BH",
+        "owner": "Independent",
+        "status": "closed",
+        "lat": 51.51552,
+        "long": -0.077752,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.077752,
+          51.51552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Core",
+        "add": "Aldermary House, 15 Queen Street, London",
+        "postcode": "EC4N 1TX",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.512978,
+        "long": -0.092818,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.092818,
+          51.512978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crosse Keys PH",
+        "add": "7 Gracechurch Street, London",
+        "postcode": "EC3V 0DR",
+        "owner": "Wetherspoons",
+        "status": "open",
+        "lat": 51.512743,
+        "long": -0.085031,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Has its own pub page on J D Wetherspoon's site (The Crosse Keys). Source: https://www.jdwetherspoon.com/pubs/the-crosse-keys-city-of-london/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.085031,
+          51.512743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Davys, 1 Plantation Place",
+        "add": "Unit 8 Plantation Place, 20 Mincing Lane, London",
+        "postcode": "EC3M 3BD",
+        "owner": "Davy's",
+        "status": "open",
+        "lat": 51.511143,
+        "long": -0.082274,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Trades under the Davy's name; listed among Davy's London bars. Source: https://www.davy.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.082274,
+          51.511143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dirty Dicks Public House",
+        "add": "202 Bishopsgate, London",
+        "postcode": "EC2M 4NR",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.517835,
+        "long": -0.079643,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Young's pub on Bishopsgate opposite Liverpool Street. Source: https://www.dirtydicks.co.uk/ ; https://breweryhistory.com/wiki/index.php/List_of_Youngs_of_Wandsworth_pubs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.079643,
+          51.517835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dirty Martini",
+        "add": "158 Bishopsgate, London",
+        "postcode": "EC2M 4LX",
+        "owner": "Nightcap",
+        "status": "open",
+        "lat": 51.517254,
+        "long": -0.080388,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Dirty Martini is a Nightcap-owned brand. Source: https://www.thespiritsbusiness.com/2025/11/nightcap-outperforms-uk-bar-market-as-fy-sales-rise/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.080388,
+          51.517254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dirty Martini",
+        "add": "Retail Unit Three Keys House, 130 Wood Street, London",
+        "postcode": "EC2V 6DL",
+        "owner": "Nightcap",
+        "status": "open",
+        "lat": 51.51454,
+        "long": -0.094857,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Dirty Martini is a Nightcap-owned brand. Source: https://www.thespiritsbusiness.com/2025/11/nightcap-outperforms-uk-bar-market-as-fy-sales-rise/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.094857,
+          51.51454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dirty Martini Monument",
+        "add": "1 Lovat Lane, London",
+        "postcode": "EC3R 8DT",
+        "owner": "Nightcap",
+        "status": "open",
+        "lat": 51.510328,
+        "long": -0.084109,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Dirty Martini is a Nightcap-owned brand. Source: https://www.thespiritsbusiness.com/2025/11/nightcap-outperforms-uk-bar-market-as-fy-sales-rise/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.084109,
+          51.510328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East India Arms",
+        "add": "East India Arms Public House, 67 Fenchurch Street, London",
+        "postcode": "EC3M 4BR",
+        "owner": "Shepherd Neame",
+        "status": "open",
+        "lat": 51.512515,
+        "long": -0.078743,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Shepherd Neame pub, est. 1829. Sources: https://www.eastindiaarms.co.uk/ ; https://en.wikipedia.org/wiki/East_India_Arms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.078743,
+          51.512515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Editors Tap",
+        "add": "Ground Floor Retail Unit, 5-11 Fetter Lane, London",
+        "postcode": "EC4A 1BR",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.514415,
+        "long": -0.109347,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.109347,
+          51.514415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Vino Co Ltd",
+        "add": "30 New Bridge Street, London",
+        "postcode": "EC4V 6BJ",
+        "owner": "Davy's",
+        "status": "open",
+        "lat": 51.512575,
+        "long": -0.10399,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: El Vino was bought by Davy's Wine Merchants in 2015 and trades as El Vino Wine & Tapas Bars under Davy's. Sources: https://en.wikipedia.org/wiki/El_Vino ; https://www.davy.co.uk/about-davys/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10399,
+          51.512575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Vino Co Ltd",
+        "add": "47 Fleet Street, London",
+        "postcode": "EC4Y 1BJ",
+        "owner": "Davy's",
+        "status": "open",
+        "lat": 51.51399,
+        "long": -0.109192,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: El Vino was bought by Davy's Wine Merchants in 2015 and trades as El Vino Wine & Tapas Bars under Davy's. Sources: https://en.wikipedia.org/wiki/El_Vino ; https://www.davy.co.uk/about-davys/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.109192,
+          51.51399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Feeneys",
+        "add": "Retail Unit, 48 Mark Lane, London",
+        "postcode": "EC3R 7QH",
+        "owner": "Independent",
+        "status": "closed",
+        "lat": 51.509847,
+        "long": -0.080008,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.080008,
+          51.509847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hamilton Hall",
+        "add": "Retail Unit 32 Upper Concourse, Liverpool Street Station, Liverpool Street, London",
+        "postcode": "EC2M 7PY",
+        "owner": "Wetherspoons",
+        "status": "open",
+        "lat": 51.519069,
+        "long": -0.081393,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Has its own pub page on J D Wetherspoon's site (Hamilton Hall). Source: https://www.jdwetherspoon.com/pubs/hamilton-hall-city-of-london/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.081393,
+          51.519069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hand & Shears Public House",
+        "add": "Hand And Shears Public House, 1 Middle Street, London",
+        "postcode": "EC1A 7JA",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.519421,
+        "long": -0.098574,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.098574,
+          51.519421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harrild And Sons",
+        "add": "26 Farringdon Street, London",
+        "postcode": "EC4A 4AB",
+        "owner": "Urban Pubs & Bars",
+        "status": "open",
+        "lat": 51.515714,
+        "long": -0.104033,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.104033,
+          51.515714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harry's Bar",
+        "add": "5 Abchurch Yard, London",
+        "postcode": "EC4N 7BA",
+        "owner": "Harry's Bar",
+        "status": "open",
+        "lat": 51.511516,
+        "long": -0.088628,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.088628,
+          51.511516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamaica Wine House",
+        "add": "St Michael's Alley, London",
+        "postcode": "EC3V 9DS",
+        "owner": "Shepherd Neame",
+        "status": "open",
+        "lat": 51.513032,
+        "long": -0.085639,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Named among Shepherd Neame's seven City of London pubs. Source: https://threepointsofthecompass.com/2019/12/24/the-shepherd-neame-city-of-london-walk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.085639,
+          51.513032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kings Stores Public House",
+        "add": "14 Widegate Street, London",
+        "postcode": "E1 7HP",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.518181,
+        "long": -0.078216,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.078216,
+          51.518181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K-Town & Chik Box; Locked And Loaded; Duke of Somerset",
+        "add": "Duke Of Somerset Public House, 15 Little Somerset Street, London",
+        "postcode": "E1 8AH",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.513728,
+        "long": -0.073777,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.073777,
+          51.513728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lady Abercorn, Andaz Hotel",
+        "add": "Andaz Hotel, 40 Liverpool Street, London",
+        "postcode": "EC2M 7QN",
+        "owner": "Hyatt",
+        "status": "open",
+        "lat": 51.517358,
+        "long": -0.081234,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.081234,
+          51.517358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liberty Bounds",
+        "add": "Retail Unit, 15 Trinity Square, London",
+        "postcode": "EC3N 4AA",
+        "owner": "Wetherspoons",
+        "status": "open",
+        "lat": 51.509755,
+        "long": -0.078801,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Has its own pub page on J D Wetherspoon's site (The Liberty Bounds). Source: https://www.jdwetherspoon.com/pubs/the-liberty-bounds-city-of-london/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.078801,
+          51.509755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Fable",
+        "add": "Retail Unit 2, 3 Fleet Place, London",
+        "postcode": "EC4M 7RA",
+        "owner": "Independent",
+        "status": "closed",
+        "lat": 51.51632,
+        "long": -0.10369,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10369,
+          51.51632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magpie & Stump",
+        "add": "18 Old Bailey, London",
+        "postcode": "EC4M 7EP",
+        "owner": "Maggie & Stump Ltd",
+        "status": "open",
+        "lat": 51.51565,
+        "long": -0.102839,
+        "city": "City of London",
+        "notes": "Freehold Stonegate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.102839,
+          51.51565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Red Cow",
+        "add": "The Old Red Cow Public House, 71-72 Long Lane, London",
+        "postcode": "EC1A 9EJ",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.5192,
+        "long": -0.099967,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.099967,
+          51.5192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oyster Shed",
+        "add": "1 Angel Lane, London",
+        "postcode": "EC4R 3AB",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.509692,
+        "long": -0.0898,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0898,
+          51.509692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patch East",
+        "add": "Basement Retail Unit, 80 Leadenhall Street, London",
+        "postcode": "EC3A 3DH",
+        "owner": "Independent",
+        "status": "closed",
+        "lat": 51.513443,
+        "long": -0.078315,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.078315,
+          51.513443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pavilion End",
+        "add": "The Pavilion End Public House, 23 Watling Street, London",
+        "postcode": "EC4M 9BR",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.51298,
+        "long": -0.094029,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.094029,
+          51.51298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pegasus Bar",
+        "add": "Inner Temple Treasury, The Terrace, London",
+        "postcode": "EC4Y 7HL",
+        "owner": "Honourable Society of the Inner Temple",
+        "status": "open",
+        "lat": 51.512974,
+        "long": -0.10971,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Members' bar within the Inner Temple Treasury building, run by the Inn itself. Source: https://www.innertemple.org.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10971,
+          51.512974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pelt Trader, Arch 3",
+        "add": "23 Dowgate Hill, London",
+        "postcode": "EC4R 2SU",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.511003,
+        "long": -0.09133,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09133,
+          51.511003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pitcher & Piano",
+        "add": "28 Cornhill, London",
+        "postcode": "EC3V 3ND",
+        "owner": "Marston's",
+        "status": "open",
+        "lat": 51.513218,
+        "long": -0.08713,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Pitcher & Piano is a Marston's brand. Source: https://www.morningadvertiser.co.uk/Article/2012/10/23/Marston-s-Pitcher-Piano-team-to-launch-Revere-Pub-Company/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08713,
+          51.513218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Popworld",
+        "add": "17 Watling Street, London",
+        "postcode": "EC4M 9BB",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.512839,
+        "long": -0.09477,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Popworld is a Stonegate Group brand. Source: https://www.stonegategroup.co.uk/our-businesses/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09477,
+          51.512839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Punch Tavern",
+        "add": "The Punch Tavern Public House, 99 Fleet Street, London",
+        "postcode": "EC4Y 1DE",
+        "owner": "Urban Pubs & Bars",
+        "status": "open",
+        "lat": 51.514027,
+        "long": -0.104823,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.104823,
+          51.514027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Revolution",
+        "add": "Retail Unit, 140-144 Leadenhall Street, London",
+        "postcode": "EC3V 4QT",
+        "owner": "Revolution",
+        "status": "closed",
+        "lat": 51.513737,
+        "long": -0.083058,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.083058,
+          51.513737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rudds",
+        "add": "Retail Unit, 148 Queen Victoria Street, London",
+        "postcode": "EC4V 4BY",
+        "owner": "Independent",
+        "status": "closed",
+        "lat": 51.512266,
+        "long": -0.101553,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.101553,
+          51.512266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samuel Peyps",
+        "add": "Samuel Pepys Public House, Stew Lane, London",
+        "postcode": "EC4V 3PT",
+        "owner": "Shepherd Neame",
+        "status": "open",
+        "lat": 51.510418,
+        "long": -0.096269,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.096269,
+          51.510418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seething Lane Tap",
+        "add": "14 Seething Lane, London",
+        "postcode": "EC3N 4AX",
+        "owner": "BrewDog",
+        "status": "closed",
+        "lat": 51.509847,
+        "long": -0.080008,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.080008,
+          51.509847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shaws Booksellers",
+        "add": "Shaws Booksellers Public House, 31-34 St Andrew's Hill, London",
+        "postcode": "EC4V 5DE",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.512586,
+        "long": -0.101323,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.101323,
+          51.512586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sir John Hawkshaw",
+        "add": "Retail Unit 4-5, Cannon Street Station, Cannon Street, London",
+        "postcode": "EC4N 6AP",
+        "owner": "JD Wetherspoon",
+        "status": "open",
+        "lat": 51.51098,
+        "long": -0.090509,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.090509,
+          51.51098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slug & Lettuce/Chik Box/Locked N Loaded/K Town",
+        "add": "St Clare House, 30-33 Minories, London",
+        "postcode": "EC3N 1DD",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.51242,
+        "long": -0.075158,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.075158,
+          51.51242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slug And Lettuce",
+        "add": "2 Love Lane, London",
+        "postcode": "EC2V 7JQ",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.516131,
+        "long": -0.093681,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Slug & Lettuce is a Stonegate Group brand. Source: https://www.stonegategroup.co.uk/our-businesses/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.093681,
+          51.516131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slug And Lettuce",
+        "add": "29 St Mary Axe, London",
+        "postcode": "EC3A 8AA",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.515027,
+        "long": -0.081116,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Slug & Lettuce is a Stonegate Group brand. Source: https://www.stonegategroup.co.uk/our-businesses/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.081116,
+          51.515027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spirit Of Man",
+        "add": "London Metal Exchange, 56 Leadenhall Street, London",
+        "postcode": "EC3A 2BJ",
+        "owner": "Unknown",
+        "status": "closed",
+        "lat": 51.513168,
+        "long": -0.07958,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07958,
+          51.513168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swan Tavern",
+        "add": "The Swan Public House, 12 Ship Tavern Passage, London",
+        "postcode": "EC3V 1LY",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.51221,
+        "long": -0.084223,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.084223,
+          51.51221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Albion",
+        "add": "The Albion Public House, 2-3 New Bridge Street, London",
+        "postcode": "EC4V 6AA",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.513836,
+        "long": -0.104687,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.104687,
+          51.513836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Alice",
+        "add": "Five Acre Square, 133-137 Houndsditch, London",
+        "postcode": "EC3A 7BX",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.51552,
+        "long": -0.077752,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.077752,
+          51.51552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Anthologist",
+        "add": "58 Gresham Street, London",
+        "postcode": "EC2V 7BB",
+        "owner": "Drake & Morgan",
+        "status": "open",
+        "lat": 51.514812,
+        "long": -0.091113,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: The Anthologist is named as a Drake & Morgan venue; group backed by Bowmark Capital. Sources: https://www.drakeandmorgan.co.uk/ ; https://www.bowmark.com/investments/drake-morgan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.091113,
+          51.514812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Arbitrager",
+        "add": "27A Throgmorton Street, London",
+        "postcode": "EC2N 2AN",
+        "owner": "Little Teapot Taverns",
+        "status": "open",
+        "lat": 51.515091,
+        "long": -0.086129,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.086129,
+          51.515091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Banker",
+        "add": "The Banker Public House, Cousin Lane, London",
+        "postcode": "EC4R 3TE",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.509661,
+        "long": -0.091761,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.091761,
+          51.509661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bell",
+        "add": "The Bell Public House, 29 Bush Lane, London",
+        "postcode": "EC4R 0AN",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.510999,
+        "long": -0.08939,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08939,
+          51.510999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Blackfriar",
+        "add": "Blackfriars Tavern, 174 Queen Victoria Street, London",
+        "postcode": "EC4V 4EG",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.512131,
+        "long": -0.103764,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Nicholson's pub. Nicholson's is a Mitchells & Butlers brand (https://www.mbplc.com/our-brands/); pub has its own venue page on Nicholson's site. Source: https://www.nicholsonspubs.co.uk/restaurants/london/theblackfriarblackfriarslondon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.103764,
+          51.512131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bootlegger's Club Ltd",
+        "add": "Basement Retail Unit, 25-26 Lime Street, London",
+        "postcode": "EC3M 7HR",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.511953,
+        "long": -0.083422,
+        "city": "City of London",
+        "notes": "Unclear if this is a pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.083422,
+          51.511953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Botanist",
+        "add": "35 Broadgate Circle, London",
+        "postcode": "EC2M 2QS",
+        "owner": "New World Trading Company",
+        "status": "open",
+        "lat": 51.518924,
+        "long": -0.08359,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: The Botanist is the New World Trading Company's flagship brand. Source: https://www.insidermedia.com/news/national/the-botanist-owner-snapped-up-for-50m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08359,
+          51.518924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Britannia",
+        "add": "The Britannia Public House, 20 Monument Street, London",
+        "postcode": "EC3R 8AJ",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.509926,
+        "long": -0.085875,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.085875,
+          51.509926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bull",
+        "add": "The Bull Public House, 4-5 Devonshire Row, London",
+        "postcode": "EC2M 4RH",
+        "owner": "Warwick Balfour Fox & Anchor Llp",
+        "status": "open",
+        "lat": 51.516935,
+        "long": -0.080142,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.080142,
+          51.516935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Butcher's Hook And Cleaver",
+        "add": "The Butcher's Hook And Cleaver Public House, 61 West Smithfield, London",
+        "postcode": "EC1A 9DY",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.518877,
+        "long": -0.100557,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.100557,
+          51.518877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Cock & Woolpack",
+        "add": "The Cock And Woolpack Public House, 6 Finch Lane, London",
+        "postcode": "EC3V 3NA",
+        "owner": "Shepherd Neame",
+        "status": "open",
+        "lat": 51.5137,
+        "long": -0.08577,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08577,
+          51.5137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Cockpit",
+        "add": "The Cockpit Public House, 7 St Andrew's Hill, London",
+        "postcode": "EC4V 5BY",
+        "owner": "Unknown",
+        "status": "open",
+        "lat": 51.513018,
+        "long": -0.101334,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.101334,
+          51.513018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Corn Exchange",
+        "add": "2 Minster Court, London",
+        "postcode": "EC3R 7BB",
+        "owner": "Whelans",
+        "status": "open",
+        "lat": 51.510936,
+        "long": -0.080611,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.080611,
+          51.510936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Counting House",
+        "add": "The Counting House Public House, 50 Cornhill, London",
+        "postcode": "EC3V 3PD",
+        "owner": "Fuller, Smith & Turner",
+        "status": "open",
+        "lat": 51.513202,
+        "long": -0.084998,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Pub's own site is a Fuller's-branded site. Source: https://www.the-counting-house.com/ ; https://www.fullers.co.uk/pubs/pub-finder/london/city-of-london"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.084998,
+          51.513202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Craft Beer Company",
+        "add": "29-31 Mitre Street, London",
+        "postcode": "EC3A 5BU",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.513936,
+        "long": -0.078755,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.078755,
+          51.513936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Crown And Sugar Loaf",
+        "add": "Crown And Sugarloaf Public House, 26 Bride Lane, London",
+        "postcode": "EC4Y 8DT",
+        "owner": "Samuel Smith",
+        "status": "open",
+        "lat": 51.513932,
+        "long": -0.105029,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.105029,
+          51.513932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Crutched Friar",
+        "add": "The Crutched Friar Public House, 39-41 Crutched Friars, London",
+        "postcode": "EC3N 2AE",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.51132,
+        "long": -0.078793,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.078793,
+          51.51132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Drift",
+        "add": "110 Bishopsgate, London",
+        "postcode": "EC2N 4AY",
+        "owner": "Drake & Morgan",
+        "status": "open",
+        "lat": 51.516247,
+        "long": -0.080935,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.080935,
+          51.516247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Fable",
+        "add": "60 Holborn Viaduct, London",
+        "postcode": "EC1A 2FD",
+        "owner": "Drake & Morgan",
+        "status": "open",
+        "lat": 51.516994,
+        "long": -0.103662,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: The Fable is named as a Drake & Morgan venue; group backed by Bowmark Capital. Sources: https://www.drakeandmorgan.co.uk/ ; https://www.bowmark.com/investments/drake-morgan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.103662,
+          51.516994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Folly",
+        "add": "41 Gracechurch Street, London",
+        "postcode": "EC3V 0BT",
+        "owner": "Drake & Morgan",
+        "status": "open",
+        "lat": 51.51124,
+        "long": -0.086017,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: The Folly is named as a Drake & Morgan venue; group backed by Bowmark Capital. Sources: https://www.drakeandmorgan.co.uk/ ; https://www.bowmark.com/investments/drake-morgan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.086017,
+          51.51124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Globe",
+        "add": "The Globe Public House, 83 Moorgate, London",
+        "postcode": "EC2M 6SA",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.517778,
+        "long": -0.088798,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Nicholson's pub (The Globe, Moorgate). Nicholson's is a Mitchells & Butlers brand (https://www.mbplc.com/our-brands/); pub has its own venue page on Nicholson's site. Source: https://www.nicholsonspubs.co.uk/restaurants/london/theglobemoorgatelondon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.088798,
+          51.517778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Golden Fleece",
+        "add": "Golden Fleece Public House, 8-9 Queen Street, London",
+        "postcode": "EC4N 1SP",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.513274,
+        "long": -0.09272,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09272,
+          51.513274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Golden Goose",
+        "add": "Ground Floor Retail Unit, 13-15 Leadenhall Market, London",
+        "postcode": "EC3V 1LR",
+        "owner": "One Circle Events",
+        "status": "open",
+        "lat": 51.51269,
+        "long": -0.083405,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.083405,
+          51.51269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Hoop & Grapes",
+        "add": "47 Aldgate High Street, London",
+        "postcode": "EC3N 1AL",
+        "owner": "Shepherd Neame",
+        "status": "open",
+        "lat": 51.514099,
+        "long": -0.074439,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Described as Shepherd Neame's own historic City pub, reopened after a GBP1.8m refurbishment. Source: https://www.beerguild.co.uk/news/shepherd-neame-officially-reopens-its-historic-city-pub-the-hoop-and-grapes-following-a-stunning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.074439,
+          51.514099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Hung Drawn & Quartered",
+        "add": "The Hung Drawn And Quartered Public House, 27 Great Tower Street, London",
+        "postcode": "EC3R 5AQ",
+        "owner": "Fuller, Smith & Turner",
+        "status": "open",
+        "lat": 51.509641,
+        "long": -0.081141,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Pub's own site is a Fuller's-branded site. Source: https://www.hung-drawn-and-quartered.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.081141,
+          51.509641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Hydrant, Equitable House",
+        "add": "1 Monument Street, London",
+        "postcode": "EC3R 8BG",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.510391,
+        "long": -0.086369,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.086369,
+          51.510391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Jugged Hare",
+        "add": "49 Chiswell Street, London",
+        "postcode": "EC1Y 4SA",
+        "owner": "ETM Collection",
+        "status": "open",
+        "lat": 51.520789,
+        "long": -0.090935,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Listed as an ETM Collection venue on ETM's own site; ETM Group founded by Ed and Tom Martin. Sources: https://etmcollection.co.uk/venue/the-jugged-hare/ ; https://en.wikipedia.org/wiki/The_Jugged_Hare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.090935,
+          51.520789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Kings Arms",
+        "add": "The Kings Arms Public House, 27 Wormwood Street, London",
+        "postcode": "EC2M 1RP",
+        "owner": "Greene King",
+        "status": "closed",
+        "lat": 51.516408,
+        "long": -0.082572,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.082572,
+          51.516408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Lamb And Trotter",
+        "add": "6 Little Britain, London",
+        "postcode": "EC1A 7BX",
+        "owner": "Hearth Hospitality Limited",
+        "status": "open",
+        "lat": 51.517092,
+        "long": -0.098023,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.098023,
+          51.517092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Lamb Tavern",
+        "add": "Lamb Tavern Public House, 10-12 Leadenhall Market, London",
+        "postcode": "EC3V 1LR",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.51269,
+        "long": -0.083405,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.083405,
+          51.51269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Leaf And Cane At Hyatt Regency London Blackfriars",
+        "add": "Blackfriars House, 19 New Bridge Street, London",
+        "postcode": "EC4V 6DB",
+        "owner": "Hyatt",
+        "status": "open",
+        "lat": 51.512262,
+        "long": -0.104666,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.104666,
+          51.512262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Lion",
+        "add": "31 Houndsditch, London",
+        "postcode": "EC3A 7DB",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.515029,
+        "long": -0.078522,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.078522,
+          51.515029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Lord Aberconway",
+        "add": "Lord Aberconway Public House, 73 Old Broad Street, London",
+        "postcode": "EC2M 1QT",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.51727,
+        "long": -0.083011,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Nicholson's pub (Lord Aberconway, Old Broad St). Nicholson's is a Mitchells & Butlers brand (https://www.mbplc.com/our-brands/); pub has its own venue page on Nicholson's site. Source: https://www.nicholsonspubs.co.uk/restaurants/london/thelordaberconwayliverpoolstreetlondon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.083011,
+          51.51727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Lord Raglan",
+        "add": "61 St Martin's-Le-Grand, London",
+        "postcode": "EC1A 4ER",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.516564,
+        "long": -0.096575,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.096575,
+          51.516564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Magpie",
+        "add": "The Magpie Public House, 12 New Street, London",
+        "postcode": "EC2M 4TP",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.517245,
+        "long": -0.079322,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Nicholson's pub (The Magpie, Bishopsgate/New St). Nicholson's is a Mitchells & Butlers brand (https://www.mbplc.com/our-brands/); pub has its own venue page on Nicholson's site. Source: https://www.nicholsonspubs.co.uk/restaurants/london/themagpiebishopsgatelondon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.079322,
+          51.517245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Minories Public House",
+        "add": "Minories Public House, 64-73 Minories, London",
+        "postcode": "EC3N 1JL",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.510638,
+        "long": -0.074527,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.074527,
+          51.510638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Moniker",
+        "add": "25 Fenchurch Avenue, London",
+        "postcode": "EC3M 5AD",
+        "owner": "Drake & Morgan",
+        "status": "open",
+        "lat": 51.512818,
+        "long": -0.080762,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.080762,
+          51.512818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Monument Public House",
+        "add": "18 Fish Street Hill, London",
+        "postcode": "EC3R 6DB",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.510037,
+        "long": -0.086701,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.086701,
+          51.510037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The New Moon Public House",
+        "add": "New Moon Public House, 88 Gracechurch Street, London",
+        "postcode": "EC3V 0DN",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.512847,
+        "long": -0.084191,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.084191,
+          51.512847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Old Bell Tavern",
+        "add": "The Old Bell Public House, 95 Fleet Street, London",
+        "postcode": "EC4Y 1DH",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.51401,
+        "long": -0.105429,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Nicholson's pub; Old Bell Tavern, Fleet St, built by Wren. Nicholson's is a Mitchells & Butlers brand (https://www.mbplc.com/our-brands/); pub has its own venue page on Nicholson's site. Sources: https://www.nicholsonspubs.co.uk/ourvenues ; https://en.wikipedia.org/wiki/Old_Bell,_Fleet_Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.105429,
+          51.51401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Old Doctor Butler's Head",
+        "add": "The Old Doctor Butlers Head Public House, 2 Mason's Avenue, London",
+        "postcode": "EC2V 5BT",
+        "owner": "Shepherd Neame",
+        "status": "open",
+        "lat": 51.515826,
+        "long": -0.090422,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Named among Shepherd Neame's seven City of London pubs. Source: https://threepointsofthecompass.com/2019/12/24/the-shepherd-neame-city-of-london-walk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.090422,
+          51.515826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Old Tea Warehouse",
+        "add": "The Old Tea Warehouse Public House, 4-8 Creechurch Lane, London",
+        "postcode": "EC3A 5AY",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.513614,
+        "long": -0.078884,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.078884,
+          51.513614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Olde Wine Shades",
+        "add": "The Olde Wine Shades Public House, 6 Martin Lane, London",
+        "postcode": "EC4R 0DJ",
+        "owner": "Davy's",
+        "status": "open",
+        "lat": 51.510869,
+        "long": -0.087559,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Listed as a Davy's venue on Davy's own site; acquired with El Vino in 2015. Sources: https://www.davy.co.uk/wine-bar/the-olde-wine-shades/ ; https://en.wikipedia.org/wiki/The_Olde_Wine_Shades"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.087559,
+          51.510869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Paternoster",
+        "add": "2 Queen's Head Passage, London",
+        "postcode": "EC4M 7DZ",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.514863,
+        "long": -0.098116,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.098116,
+          51.514863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Phoenix",
+        "add": "Retail Unit, 26 Throgmorton Street, London",
+        "postcode": "EC2N 2AN",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.515091,
+        "long": -0.086129,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.086129,
+          51.515091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Pregnant Man",
+        "add": "40 Chancery Lane, London",
+        "postcode": "WC2A 1JA",
+        "owner": "Saatchi & Saatchi",
+        "status": "open",
+        "lat": 51.5165,
+        "long": -0.1121,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1121,
+          51.5165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Rack & Tenter",
+        "add": "Rack And Tenter Public House Tenter House, 45 Moorfields, London",
+        "postcode": "EC2Y 9AE",
+        "owner": "Marston's",
+        "status": "closed",
+        "lat": 51.518777,
+        "long": -0.088886,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.088886,
+          51.518777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Railway Tavern",
+        "add": "The Railway Tavern Public House, 15 Liverpool Street, London",
+        "postcode": "EC2M 7NX",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.517511,
+        "long": -0.083477,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.083477,
+          51.517511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Red Lion",
+        "add": "The Red Lion Public House, 1 Eldon Street, London",
+        "postcode": "EC2M 7LS",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.518777,
+        "long": -0.085557,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.085557,
+          51.518777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Rising Sun",
+        "add": "Rising Sun Public House, 61 Carter Lane, London",
+        "postcode": "EC4V 5DY",
+        "owner": "Unknown",
+        "status": "open",
+        "lat": 51.513091,
+        "long": -0.101432,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.101432,
+          51.513091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Rising Sun Public House",
+        "add": "38 Cloth Fair, London",
+        "postcode": "EC1A 7JQ",
+        "owner": "Samuel Smith",
+        "status": "open",
+        "lat": 51.519134,
+        "long": -0.099783,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Sam Smith's house at 38 Cloth Fair, near Smithfield; all beer brewed by Samuel Smith's. Source: https://londonist.com/london/drink/the-11-best-sam-smiths-pubs-in-london"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.099783,
+          51.519134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Saint",
+        "add": "1 Bow Churchyard, London",
+        "postcode": "EC4M 9DQ",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.513493,
+        "long": -0.094065,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.094065,
+          51.513493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Sea Horse",
+        "add": "Sea Horse Public House, 64 Queen Victoria Street, London",
+        "postcode": "EC4N 4SJ",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.512596,
+        "long": -0.093627,
+        "city": "City of London",
+        "notes": "Craft Union branded"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.093627,
+          51.512596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Shakespeare",
+        "add": "The Shakespeare Public House, 2 Goswell Road, London",
+        "postcode": "EC1M 7AA",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.522495,
+        "long": -0.09738,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09738,
+          51.522495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Ship",
+        "add": "The Ship Public House, 3 Hart Street, London",
+        "postcode": "EC3R 7NB",
+        "owner": "Nice Bars Ltd",
+        "status": "open",
+        "lat": 51.51088,
+        "long": -0.079964,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.079964,
+          51.51088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Ship Public House",
+        "add": "11 Talbot Court, London",
+        "postcode": "EC3V 0BP",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.510989,
+        "long": -0.084975,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.084975,
+          51.510989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Sugarloaf",
+        "add": "Retail Unit, 65 Cannon Street, London",
+        "postcode": "EC4N 5AA",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.512361,
+        "long": -0.093003,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.093003,
+          51.512361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Swan PH",
+        "add": "Retail Unit, 77-80 Gracechurch Street, London",
+        "postcode": "EC3V 0AS",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.512356,
+        "long": -0.084413,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.084413,
+          51.512356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Telegraph",
+        "add": "The Telegraph Public House, 11 Telegraph Street, London",
+        "postcode": "EC2R 7AR",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.515657,
+        "long": -0.088325,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.088325,
+          51.515657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Tipperary",
+        "add": "The Tipperary Public House, 66 Fleet Street, London",
+        "postcode": "EC4Y 1HT",
+        "owner": "Dominus",
+        "status": "closed",
+        "lat": 51.514027,
+        "long": -0.107591,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.107591,
+          51.514027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Trinity Bell",
+        "add": "Cree House, 20 Creechurch Lane, London",
+        "postcode": "EC3A 5AY",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.513614,
+        "long": -0.078884,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.078884,
+          51.513614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Walrus & The Carpenter PH",
+        "add": "The Walrus & The Carpenter Public House, 45 Monument Street, London",
+        "postcode": "EC3R 8BU",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.509509,
+        "long": -0.084115,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.084115,
+          51.509509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Windsor",
+        "add": "The Windsor Public House, 2 New London Street, London",
+        "postcode": "EC3R 7NA",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.511272,
+        "long": -0.079732,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.079732,
+          51.511272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Woodins Shades",
+        "add": "Woodins Shades Public House, 212 Bishopsgate, London",
+        "postcode": "EC2M 4PT",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.518297,
+        "long": -0.079307,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.079307,
+          51.518297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Three Cranes",
+        "add": "28 Garlick Hill, London",
+        "postcode": "EC4V 2BA",
+        "owner": "Three Cranes Pub Ltd",
+        "status": "open",
+        "lat": 51.512013,
+        "long": -0.093723,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.093723,
+          51.512013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Three Tuns",
+        "add": "The Three Tuns Public House, 36 Jewry Street, London",
+        "postcode": "EC3N 2ET",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.513306,
+        "long": -0.076562,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.076562,
+          51.513306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokenhouse",
+        "add": "Retail Unit, 4 Moorgate, London",
+        "postcode": "EC2R 6DA",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.515195,
+        "long": -0.089238,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.089238,
+          51.515195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Traitors Gate",
+        "add": "14 Trinity Square, London",
+        "postcode": "EC3N 4AA",
+        "owner": "McMullen & Sons",
+        "status": "open",
+        "lat": 51.509755,
+        "long": -0.078801,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.078801,
+          51.509755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viaduct Tavern Public House",
+        "add": "126 Newgate Street, London",
+        "postcode": "EC1A 7AA",
+        "owner": "Fuller, Smith & Turner",
+        "status": "open",
+        "lat": 51.516224,
+        "long": -0.101619,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Fuller's pub; Grade II listed. Sources: https://www.viaducttavern.co.uk/ ; https://en.wikipedia.org/wiki/Viaduct_Tavern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.101619,
+          51.516224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Williams Ale And Cider House",
+        "add": "22-24 Artillery Lane, London",
+        "postcode": "E1 7LS",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.518353,
+        "long": -0.078324,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.078324,
+          51.518353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Williamsons Tavern",
+        "add": "Williamson's Tavern Public House, 1 Groveland Court, London",
+        "postcode": "EC4M 9EH",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.513278,
+        "long": -0.094117,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Nicholson's pub. Nicholson's is a Mitchells & Butlers brand (https://www.mbplc.com/our-brands/); pub has its own venue page on Nicholson's site. Source: https://www.nicholsonspubs.co.uk/restaurants/london/williamsonstaverngrovelandcourtlondon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.094117,
+          51.513278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wood Street Bar And Restaurant",
+        "add": "53 Fore Street, London",
+        "postcode": "EC2Y 5EJ",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.517751,
+        "long": -0.090457,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.090457,
+          51.517751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ye Olde Cheshire Cheese",
+        "add": "Ye Olde Cheshire Cheese Public House, 145 Fleet Street, London",
+        "postcode": "EC4A 2BU",
+        "owner": "Samuel Smith",
+        "status": "open",
+        "lat": 51.514392,
+        "long": -0.107388,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Acquired by Samuel Smith (Tadcaster) in the early 1990s; serves only Sam Smith's beer. Sources: https://en.wikipedia.org/wiki/Ye_Olde_Cheshire_Cheese ; https://londonpubsgroup.camra.org.uk/viewnode.php?id=28676"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.107388,
+          51.514392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ye Olde Cock Tavern",
+        "add": "Ye Olde Cock Tavern Public House, 22 Fleet Street, London",
+        "postcode": "EC4Y 1AA",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.513687,
+        "long": -0.110501,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Part of the Greene King group. Source: https://en.wikipedia.org/wiki/Ye_Olde_Cock_Tavern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.110501,
+          51.513687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ye Olde London",
+        "add": "Ye Olde London Public House, 42 Ludgate Hill, London",
+        "postcode": "EC4M 7DE",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.514084,
+        "long": -0.10165,
+        "city": "City of London",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10165,
+          51.514084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ye Olde Watling",
+        "add": "Ye Olde Watling Public House, 29 Watling Street, London",
+        "postcode": "EC4M 9BR",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.51298,
+        "long": -0.094029,
+        "city": "City of London",
+        "notes": "Confidence: High. Evidence: Nicholson's pub (Ye Olde Watling, Watling St). Nicholson's is a Mitchells & Butlers brand (https://www.mbplc.com/our-brands/); pub has its own venue page on Nicholson's site. Source: https://www.nicholsonspubs.co.uk/ourvenues"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.094029,
+          51.51298
+        ]
+      }
+    }
+  ]
+}
