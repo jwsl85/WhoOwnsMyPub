@@ -1,3 +1,7 @@
 get a more beautiful tileset
 think through the design
 learn how to add the dropdown filter menu
+
+
+figure the size issue 
+reduce size of central navbar

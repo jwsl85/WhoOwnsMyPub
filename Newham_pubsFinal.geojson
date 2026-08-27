@@ -1,0 +1,1013 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abbey Arms",
+        "add": "Abbey Arms Public House, 384 Barking Road, Plaistow, London",
+        "postcode": "E13 8HL",
+        "owner": "Abbey Arms Hotel Ltd",
+        "status": "open",
+        "lat": 51.521229,
+        "long": 0.020725,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.020725,
+          51.521229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beckton Arms",
+        "add": "Beckton Arms Public House, 1 Beckton Road, Canning Town, London",
+        "postcode": "E16 1PY",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.517136,
+        "long": 0.015136,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.015136,
+          51.517136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blakesley Arms",
+        "add": "53 Station Road, Manor Park, London",
+        "postcode": "E12 5BP",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.551325,
+        "long": 0.046839,
+        "city": "Newham",
+        "notes": "Freehold Stonegate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.046839,
+          51.551325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Denmark Arms",
+        "add": "381 Barking Road, East Ham, London",
+        "postcode": "E6 1LA",
+        "owner": "Unknown",
+        "status": "closed",
+        "lat": 51.53303,
+        "long": 0.052723,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.052723,
+          51.53303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EADN London",
+        "add": "24 Stephenson Street, Canning Town, London",
+        "postcode": "E16 4SA",
+        "owner": "Unknown",
+        "status": "open",
+        "lat": 51.518982,
+        "long": 0.003905,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.003905,
+          51.518982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Ham South Conservative Club",
+        "add": "1 Vicarage Lane, East Ham, London",
+        "postcode": "E6 6AD",
+        "owner": "East Ham South Conservative Club",
+        "status": "open",
+        "lat": 51.525916,
+        "long": 0.057403,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.057403,
+          51.525916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forest Tavern",
+        "add": "The Forest Tavern, 173 - 175 Forest Lane, Forest Gate, London",
+        "postcode": "E7 9BB",
+        "owner": "Portobello Pubs",
+        "status": "open",
+        "lat": 51.5500517032173,
+        "long": 0.0245095990123203,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0245095990123203,
+          51.5500517032173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fox & Hounds Public House",
+        "add": "The Fox And Hounds, 178 Forest Lane, Forest Gate, London",
+        "postcode": "E7 9BB",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.549361,
+        "long": 0.022159,
+        "city": "Newham",
+        "notes": "Craft Union Pubs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.022159,
+          51.549361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fox At Excel Bar & Restaurant",
+        "add": "Fox At Excel, Warehouse K, 2 Western Gateway, Canning Town",
+        "postcode": "E16 1DR",
+        "owner": "Fox bars",
+        "status": "open",
+        "lat": 51.5089534286645,
+        "long": 0.0253604269864852,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0253604269864852,
+          51.5089534286645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golden Fleece",
+        "add": "166 Capel Road, Manor Park, London",
+        "postcode": "E12 5DB",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.554572,
+        "long": 0.044245,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.044245,
+          51.554572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Henley Arms",
+        "add": "The Henley Arms, 268 Albert Road, North Woolwich, London",
+        "postcode": "E16 2HX",
+        "owner": "Heineken",
+        "status": "open",
+        "lat": 51.501728,
+        "long": 0.056187,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.056187,
+          51.501728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jim & Tonic - Pub",
+        "add": "133 High Street, Stratford, London",
+        "postcode": "E15 2RB",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.532293,
+        "long": -0.008778,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.008778,
+          51.532293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King Edward VII",
+        "add": "The King Edward VII, 47 Broadway, Stratford, London",
+        "postcode": "E15 4BQ",
+        "owner": "Ava Ventures Ltd",
+        "status": "closed",
+        "lat": 51.541009,
+        "long": 0.002638,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.002638,
+          51.541009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leyton House Working Mens Club And Institute",
+        "add": "Leyton House Working Mens Club, 200 Chandos Road, Stratford, London",
+        "postcode": "E15 1TB",
+        "owner": "Leyton House Working Mens Club & Institute",
+        "status": "open",
+        "lat": 51.550346,
+        "long": -0.002911,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.002911,
+          51.550346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lord Stanley",
+        "add": "The Lord Stanley, 15 St Marys Road, Plaistow, London",
+        "postcode": "E13 9AE",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.531449,
+        "long": 0.024638,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.024638,
+          51.531449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Millers Well",
+        "add": "The Millers Well, 419 - 423 Barking Road, East Ham, London",
+        "postcode": "E6 2JX",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.5336131746095,
+        "long": 0.0564361730135147,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0564361730135147,
+          51.5336131746095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mother Kellys E20",
+        "add": "27 - 30 Victory Parade, Stratford, London",
+        "postcode": "E20 1FS",
+        "owner": "Barley Pop",
+        "status": "open",
+        "lat": 51.548035,
+        "long": -0.010076,
+        "city": "Newham",
+        "notes": "https://www.linkedin.com/in/nigelowen-motherkellys/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.010076,
+          51.548035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Outpost",
+        "add": "1 Westfield Avenue, Stratford, London",
+        "postcode": "E20 1HZ",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.54319,
+        "long": -0.01011,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.01011,
+          51.54319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queens Head",
+        "add": "5 - 7 West Ham Lane, Stratford, London",
+        "postcode": "E15 4PH",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.540629,
+        "long": 0.002344,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.002344,
+          51.540629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queens Public House",
+        "add": "410 Green Street, Upton Park, London",
+        "postcode": "E13 9JJ",
+        "owner": "Heineken",
+        "status": "open",
+        "lat": 51.534252,
+        "long": 0.03523,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.03523,
+          51.534252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South West Ham Labour Club",
+        "add": "11A St Andrews Road, Plaistow, London",
+        "postcode": "E13 8QD",
+        "owner": "South West Ham Labour Club and Institute Limited",
+        "status": "open",
+        "lat": 51.524126,
+        "long": 0.028465,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.028465,
+          51.524126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Streeties P H",
+        "add": "Streeties, 15 Shirley Street, Canning Town, London",
+        "postcode": "E16 1HU",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.512949,
+        "long": 0.012328,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.012328,
+          51.512949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tap East",
+        "add": "7 International Square, Westfield Stratford City, Montfichet Road, London",
+        "postcode": "E20 1EE",
+        "owner": "Utobeer",
+        "status": "open",
+        "lat": 51.544346,
+        "long": -0.006359,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.006359,
+          51.544346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Abbey Tap - 88th Street / Value Mighty / Sin City Burger / K-Town / Chik Box / Locked And Loaded / Pizza Amore / Dough Maste",
+        "add": "The Abbey Tap, 10 - 14 Broadway, Stratford, London",
+        "postcode": "E15 4QS",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.540281,
+        "long": 7.9e-05,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9e-05,
+          51.540281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bay Tree Pub",
+        "add": "The Bay Tree, 59 Vicarage Lane, Stratford, London",
+        "postcode": "E15 4HG",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.5406206770248,
+        "long": 0.010809655822071,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.010809655822071,
+          51.5406206770248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Black Lion",
+        "add": "Black Lion Public House, 59-61 High Street, Plaistow, London",
+        "postcode": "E13 0AD",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.531107,
+        "long": 0.020514,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.020514,
+          51.531107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Boleyn",
+        "add": "Boleyn Tavern, 1 Barking Road, East Ham, London",
+        "postcode": "E6 1PW",
+        "owner": "Remarkable Pubs",
+        "status": "open",
+        "lat": 51.530498,
+        "long": 0.038116,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.038116,
+          51.530498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Britannia",
+        "add": "2 Plaistow Grove, Stratford, London",
+        "postcode": "E15 3ER",
+        "owner": "Frank Lampard",
+        "status": "closed",
+        "lat": 51.534138,
+        "long": 0.012743,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.012743,
+          51.534138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Carpenters Arms",
+        "add": "Carpenters Road, Stratford, London",
+        "postcode": "E15 2JH",
+        "owner": "Heineken",
+        "status": "open",
+        "lat": 51.537668,
+        "long": -0.005512,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.005512,
+          51.537668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Cow",
+        "add": "4 Chestnut Plaza, Westfield Stratford City, Montfichet Road, London",
+        "postcode": "E20 1GL",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.544346,
+        "long": -0.006359,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.006359,
+          51.544346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Fox At Connaught",
+        "add": "Lynx Way, Canning Town, London",
+        "postcode": "E16 1JR",
+        "owner": "Fox bars",
+        "status": "open",
+        "lat": 51.507875,
+        "long": 0.039138,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.039138,
+          51.507875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Golden Grove",
+        "add": "Golden Grove Public House, 146-148 The Grove, Stratford, London",
+        "postcode": "E15 1NS",
+        "owner": "JD Wetherspoon",
+        "status": "open",
+        "lat": 51.544232,
+        "long": 0.004034,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.004034,
+          51.544232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Goose On Broadway",
+        "add": "The Goose, 78 - 102 Broadway, Stratford, London",
+        "postcode": "E15 1NG",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.541651,
+        "long": 0.001902,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.001902,
+          51.541651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Greyhound",
+        "add": "136 West Ham Lane, Stratford, London",
+        "postcode": "E15 4PT",
+        "owner": "Redhouse Pubs",
+        "status": "open",
+        "lat": 51.53585,
+        "long": 0.006777,
+        "city": "Newham",
+        "notes": "Freehold Stonegate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.006777,
+          51.53585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Hudson Bay",
+        "add": "Hudson Bay, 1 - 5 Upton Lane, Forest Gate, London",
+        "postcode": "E7 9PA",
+        "owner": "JD Wetherspoon",
+        "status": "open",
+        "lat": 51.54501,
+        "long": 0.026279,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.026279,
+          51.54501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Lamb Public House",
+        "add": "The Lamb, 85 Pelly Road, Plaistow, London",
+        "postcode": "E13 0NL",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.53375,
+        "long": 0.021611,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.021611,
+          51.53375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Meeting Point",
+        "add": "200 - 202 High Street North, East Ham, London",
+        "postcode": "E6 2JA",
+        "owner": "Mosaic Pubs",
+        "status": "closed",
+        "lat": 51.53943,
+        "long": 0.051393,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.051393,
+          51.53943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Railway Tavern",
+        "add": "131 Angel Lane, Stratford, London",
+        "postcode": "E15 1DB",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.545106,
+        "long": 0.000178,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.000178,
+          51.545106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Red Lion",
+        "add": "80 High Street South, East Ham, London",
+        "postcode": "E6 6ET",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.530724,
+        "long": 0.055532,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.055532,
+          51.530724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Rising Sun",
+        "add": "Rising Sun, 528 Romford Road, Forest Gate, London",
+        "postcode": "E7 8AF",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.548127,
+        "long": 0.039902,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.039902,
+          51.548127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Royal British Legion",
+        "add": "14 Constance Street, North Woolwich, London",
+        "postcode": "E16 2DQ",
+        "owner": "North Woolwich & Silvertown Royal British Legion Club",
+        "status": "open",
+        "lat": 51.502814,
+        "long": 0.045529,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.045529,
+          51.502814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Sportsman",
+        "add": "78 - 102 Broadway, Stratford, London",
+        "postcode": "E15 1NG",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.541651,
+        "long": 0.001901,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.001901,
+          51.541651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Victoria",
+        "add": "28 High Street, Plaistow, London",
+        "postcode": "E13 0AJ",
+        "owner": "Independent",
+        "status": "closed",
+        "lat": 51.530004,
+        "long": 0.021878,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.021878,
+          51.530004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Windjammer",
+        "add": "25 Admiralty Avenue, Silvertown, London",
+        "postcode": "E16 2PN",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.499502,
+        "long": 0.031066,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.031066,
+          51.499502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Winsor House P H & Travel Inn Brewster Fayre",
+        "add": "Winsor Public House, 1 Woolwich Manor Way, Beckton, London",
+        "postcode": "E6 5NT",
+        "owner": "Brewers Fayre",
+        "status": "open",
+        "lat": 51.51519,
+        "long": 0.060894,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.060894,
+          51.51519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tina We Salute You",
+        "add": "2 Olympic Park Avenue, Stratford, London",
+        "postcode": "E20 1FT",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.54646,
+        "long": -0.012948,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.012948,
+          51.54646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "William The Conqueror",
+        "add": "630 Romford Road, Manor Park, London",
+        "postcode": "E12 5AQ",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.550938,
+        "long": 0.048885,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.048885,
+          51.550938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ye Olde Black Bull",
+        "add": "13 Broadway, Stratford, London",
+        "postcode": "E15 4BQ",
+        "owner": "Heineken",
+        "status": "open",
+        "lat": 51.541009,
+        "long": 0.002638,
+        "city": "Newham",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.002638,
+          51.541009
+        ]
+      }
+    }
+  ]
+}
