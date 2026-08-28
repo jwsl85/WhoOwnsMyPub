@@ -595,8 +595,51 @@
     })
     .catch(error => console.error('Error loading GeoJSON:', error));
 
+    fetch('Woolwich_pubsFinal.geojson')
+    .then(response => response.json())
+    .then(data => {
+        L.geoJSON(data, {
+            pointToLayer: function (feature, latlng) {
+             const owner = feature.properties.owner;
+             var color = '#3388ff'; // Default color
+
+             if (owner === 'Greene King') {
+                 color = '#005A40';
+             } else if (owner === "Young's") {
+                 color = '#DFC026';
+             } else if (owner === 'Fuller Smith & Turner') {
+                 color = '#C8102E';
+             } else if (owner === 'Mitchells & Butlers') {
+                 color = '#d97706';
+             } else if (owner === 'Stonegate') {
+                 color = '#99927f';
+             } else if (owner === 'JD Wetherspoon') {
+                color = 'black';
+             } else if (owner === 'Independent') {
+                color = '#3388ff';
+             } else {
+                color = '#800080';
+             }
+
+             return L.marker(latlng, {
+                 icon: bubbleIcon(color),
+                 interactive: true
+             });
+            },
+
+            onEachFeature: function(feature, layer){
+                if (feature.properties){
+                    layer.bindPopup(
+                        '<div class="text-lg font-bold">' + feature.properties.name + '</div>' +
+                        '<p class="text-sm font-normal m-0">' + feature.properties.owner + '</p>'
+                    );
+                }
+            }
+        }).addTo(map);
+    })
+    .catch(error => console.error('Error loading GeoJSON:', error));
+
     
-  
 
 
     </script>
