@@ -1,0 +1,1853 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Be at One",
+        "add": "26-28 York Street, Twickenham",
+        "postcode": "TW1 3LJ",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.447266,
+        "long": -0.327328,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.327328,
+          51.447266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Be At One",
+        "add": "7A Petersham Road, Richmond",
+        "postcode": "TW10 6UH",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.45757,
+        "long": -0.30505,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.30505,
+          51.45757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Duke",
+        "add": "3 Duke Street, Richmond",
+        "postcode": "TW9 1HP",
+        "owner": "Tavern Pubs",
+        "status": "closed",
+        "lat": 51.461512,
+        "long": -0.3042,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3042,
+          51.461512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CTZN Brew",
+        "add": "29-31 York Street, Twickenham",
+        "postcode": "TW1 3JZ",
+        "owner": "CTZN Brew",
+        "status": "closed",
+        "lat": 51.447671,
+        "long": -0.32709,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.32709,
+          51.447671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duke Of Cambridge",
+        "add": "Kneller Road, Twickenham",
+        "postcode": "TW2 7DT",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.455312,
+        "long": -0.351714,
+        "city": "Richmond upon Thames",
+        "notes": "Freehold: Stonegate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.351714,
+          51.455312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hare and Hounds",
+        "add": "Hare And Hounds, 214-216 Upper Richmond Road West, East Sheen, London",
+        "postcode": "SW14 8AH",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.46503,
+        "long": -0.264808,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.264808,
+          51.46503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HMO The Old Ship",
+        "add": "The Old Ship, 3 King Street, Richmond",
+        "postcode": "TW9 1ND",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.459963,
+        "long": -0.306954,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.306954,
+          51.459963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "All Bar One",
+        "add": "1 Kew Road, Kew",
+        "postcode": "TW9 2NQ",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.463341,
+        "long": -0.302404,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.302404,
+          51.463341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prince Albert",
+        "add": "30 Hampton Road, Twickenham",
+        "postcode": "TW2 5QB",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.442169,
+        "long": -0.344286,
+        "city": "Richmond upon Thames",
+        "notes": "Freehold: Fuller Smith & Turner, locally managed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.344286,
+          51.442169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prince Of Wales",
+        "add": "136 Hampton Road, Twickenham",
+        "postcode": "TW2 5QR",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.439527,
+        "long": -0.348194,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.348194,
+          51.439527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rose of York",
+        "add": "Petersham Road, Richmond",
+        "postcode": "TW10 6UY",
+        "owner": "Samuel Smith",
+        "status": "open",
+        "lat": 51.452619,
+        "long": -0.301657,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.301657,
+          51.452619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St Margaret's Tavern",
+        "add": "St Margarets Tavern, 107 St Margarets Road, Twickenham",
+        "postcode": "TW1 2LJ",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.454184,
+        "long": -0.317804,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.317804,
+          51.454184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stokes & Moncreiff",
+        "add": "The Royal Oak, 13 Richmond Road, Twickenham",
+        "postcode": "TW1 3AB",
+        "owner": "Heron Restaurant Group",
+        "status": "closed",
+        "lat": 51.448622,
+        "long": -0.325012,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.325012,
+          51.448622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tap on the Line",
+        "add": "Kew Gardens Railway Station, Station Parade, Kew, Richmond",
+        "postcode": "TW9 3PZ",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.47729,
+        "long": -0.285181,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.285181,
+          51.47729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tap Tavern",
+        "add": "Richmond Tap Tavern, Princes Street, Richmond",
+        "postcode": "TW9 1ED",
+        "owner": "The Richmond Town Tavern Ltd",
+        "status": "open",
+        "lat": 51.461515,
+        "long": -0.302399,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.302399,
+          51.461515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thai @The Albert",
+        "add": "Prince Albert, 30 Hampton Road, Twickenham",
+        "postcode": "TW2 5QB",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.441976,
+        "long": -0.344585,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.344585,
+          51.441976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Abercorn Arms",
+        "add": "Abercorn Arms, 76-78 Church Road, Teddington",
+        "postcode": "TW11 8EY",
+        "owner": "Morgan Pub Co",
+        "status": "open",
+        "lat": 51.428822,
+        "long": -0.338328,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.338328,
+          51.428822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Adelaide",
+        "add": "57 Park Road, Teddington",
+        "postcode": "TW11 0AU",
+        "owner": "Shepherd Neame",
+        "status": "open",
+        "lat": 51.423652,
+        "long": -0.334599,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.334599,
+          51.423652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Admiral Nelson",
+        "add": "123 Nelson Road, Twickenham",
+        "postcode": "TW2 7BB",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.453067,
+        "long": -0.358255,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.358255,
+          51.453067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Ailsa Tavern",
+        "add": "Ailsa Tavern, 263 St Margarets Road, Twickenham",
+        "postcode": "TW1 1NJ",
+        "owner": "Shepherd Neame",
+        "status": "open",
+        "lat": 51.460339,
+        "long": -0.323077,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.323077,
+          51.460339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Albany",
+        "add": "1 Queens Road, Twickenham",
+        "postcode": "TW1 4EZ",
+        "owner": "Scotsand Estates Ltd",
+        "status": "open",
+        "lat": 51.449042,
+        "long": -0.332408,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.332408,
+          51.449042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Angel and Crown",
+        "add": "The Angel And Crown, 5 Church Court, Richmond",
+        "postcode": "TW9 1JL",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.460514,
+        "long": -0.304129,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.304129,
+          51.460514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Anglers",
+        "add": "Anglers Hotel, 3 Broom Road, Teddington",
+        "postcode": "TW11 9NR",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.429251,
+        "long": -0.322417,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.322417,
+          51.429251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bell Inn",
+        "add": "8 Thames Street, Hampton",
+        "postcode": "TW12 2EA",
+        "owner": "An Authentic Pub Co Ltd",
+        "status": "open",
+        "lat": 51.413021,
+        "long": -0.36189,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36189,
+          51.413021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bloomsbury",
+        "add": "209 Staines Road, Twickenham",
+        "postcode": "TW2 5BB",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.441675,
+        "long": -0.352577,
+        "city": "Richmond upon Thames",
+        "notes": "Freehold: Heineken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.352577,
+          51.441675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bridge Tavern",
+        "add": "The Bridge, 204 Castelnau, Barnes, London",
+        "postcode": "SW13 9DW",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.485852,
+        "long": -0.232611,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.232611,
+          51.485852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Britannia",
+        "add": "5 Brewers Lane, Richmond",
+        "postcode": "TW9 1HH",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.460951,
+        "long": -0.305026,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.305026,
+          51.460951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Brown Dog",
+        "add": "28 Cross Street, Barnes, London",
+        "postcode": "SW13 0AP",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.468907,
+        "long": -0.251559,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.251559,
+          51.468907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bull's Head",
+        "add": "373 Lonsdale Road, Barnes, London",
+        "postcode": "SW13 9PY",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.473772,
+        "long": -0.250927,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.250927,
+          51.473772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Cabbage Patch",
+        "add": "67 London Road, Twickenham",
+        "postcode": "TW1 3SZ",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.448809,
+        "long": -0.32997,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.32997,
+          51.448809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Castlebar",
+        "add": "69-71 High Street, Teddington",
+        "postcode": "TW11 8HA",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.427344,
+        "long": -0.330538,
+        "city": "Richmond upon Thames",
+        "notes": "Freehold: Stonegate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.330538,
+          51.427344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Coach & Horses",
+        "add": "The Coach And Horses, 27 Barnes High Street, Barnes, London",
+        "postcode": "SW13 9LW",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.473513,
+        "long": -0.249302,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.249302,
+          51.473513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Coach And Horses",
+        "add": "8 Kew Green, Kew",
+        "postcode": "TW9 3BH",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.483243,
+        "long": -0.286442,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.286442,
+          51.483243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Cricketers",
+        "add": "79 Kew Green, Kew",
+        "postcode": "TW9 3AH",
+        "owner": "Inda Pubs",
+        "status": "open",
+        "lat": 51.485504,
+        "long": -0.288517,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.288517,
+          51.485504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Cricketers",
+        "add": "The Green, Richmond",
+        "postcode": "TW9 1LX",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.460399,
+        "long": -0.307723,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.307723,
+          51.460399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Crown",
+        "add": "128 Lower Mortlake Road, Richmond",
+        "postcode": "TW9 2JZ",
+        "owner": "Heineken",
+        "status": "open",
+        "lat": 51.46622,
+        "long": -0.29196,
+        "city": "Richmond upon Thames",
+        "notes": "Freehold: Crown Estate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.29196,
+          51.46622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Crown Inn",
+        "add": "The Crown, 174 Richmond Road, Twickenham",
+        "postcode": "TW1 2NH",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.451192,
+        "long": -0.318576,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.318576,
+          51.451192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Duke Of Clarence",
+        "add": "147 High Street, Hampton Hill",
+        "postcode": "TW12 1NJ",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.426816,
+        "long": -0.356147,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.356147,
+          51.426816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Dukes Head",
+        "add": "42 The Vineyard, Richmond",
+        "postcode": "TW10 6AZ",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.458634,
+        "long": -0.299627,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.299627,
+          51.458634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Dysart Petersham",
+        "add": "135 Petersham Road, Petersham",
+        "postcode": "TW10 7AA",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.446593,
+        "long": -0.300276,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.300276,
+          51.446593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Eel Pie",
+        "add": "9-11 Church Street, Twickenham",
+        "postcode": "TW1 3NJ",
+        "owner": "Hall & Woodhouse",
+        "status": "open",
+        "lat": 51.446998,
+        "long": -0.326568,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.326568,
+          51.446998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Foresters Arms",
+        "add": "Foresters Arms, 45 High Street, Hampton Wick",
+        "postcode": "KT1 4DG",
+        "owner": "First Bar Ltd",
+        "status": "open",
+        "lat": 51.414013,
+        "long": -0.312566,
+        "city": "Richmond upon Thames",
+        "notes": "Freehold: Heineken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.312566,
+          51.414013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Fountain Beefeater",
+        "add": "152 Sixth Cross Road, Twickenham",
+        "postcode": "TW2 5PE",
+        "owner": "Beefeater (Whitbread)",
+        "status": "open",
+        "lat": 51.438902,
+        "long": -0.360029,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.360029,
+          51.438902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Fox",
+        "add": "39 Church Street, Twickenham",
+        "postcode": "TW1 3NR",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.446646,
+        "long": -0.32707,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.32707,
+          51.446646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Fox & Duck",
+        "add": "Fox And Duck, 194 Petersham Road, Petersham",
+        "postcode": "TW10 7AD",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.445164,
+        "long": -0.302781,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.302781,
+          51.445164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The George",
+        "add": "32 King Street, Twickenham",
+        "postcode": "TW1 3SN",
+        "owner": "Morgan Pub Co",
+        "status": "open",
+        "lat": 51.446099,
+        "long": -0.329062,
+        "city": "Richmond upon Thames",
+        "notes": "Freehold: Greene King"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.329062,
+          51.446099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Greyhound",
+        "add": "82 Kew Green, Kew",
+        "postcode": "TW9 3AP",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.485241,
+        "long": -0.286101,
+        "city": "Richmond upon Thames",
+        "notes": "Freehold: Stonegate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.286101,
+          51.485241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Hampton",
+        "add": "The Hampton Pub, 31 Tangley Park Road, Hampton",
+        "postcode": "TW12 3YH",
+        "owner": "Hampton Ale House Ltd",
+        "status": "open",
+        "lat": 51.425994,
+        "long": -0.377192,
+        "city": "Richmond upon Thames",
+        "notes": "Freehold: Stonegate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.377192,
+          51.425994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Hogarth",
+        "add": "58 Broad Street, Teddington",
+        "postcode": "TW11 8QY",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.42587,
+        "long": -0.336795,
+        "city": "Richmond upon Thames",
+        "notes": "Freehold: Stonegate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.336795,
+          51.42587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Jolly Gardeners",
+        "add": "The Jolly Gardener, 36 Lower Richmond Road, Mortlake, London",
+        "postcode": "SW14 7EX",
+        "owner": "The London Pub Group Ltd",
+        "status": "open",
+        "lat": 51.469601,
+        "long": -0.268658,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.268658,
+          51.469601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Marlborough",
+        "add": "46 Friars Stile Road, Richmond",
+        "postcode": "TW10 6NH",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.455085,
+        "long": -0.296779,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.296779,
+          51.455085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Masons' Arms",
+        "add": "41 Walpole Road, Teddington",
+        "postcode": "TW11 8PJ",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.426746,
+        "long": -0.339075,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.339075,
+          51.426746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Mitre",
+        "add": "20 St Marys Grove, Richmond",
+        "postcode": "TW9 1UY",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.463076,
+        "long": -0.291573,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.291573,
+          51.463076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The New Inn",
+        "add": "345 Petersham Road, Ham",
+        "postcode": "TW10 7DB",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.436232,
+        "long": -0.305106,
+        "city": "Richmond upon Thames",
+        "notes": "Freehold: Heineken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.305106,
+          51.436232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Orange Tree",
+        "add": "45 Kew Road, Richmond",
+        "postcode": "TW9 2NQ",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.464283,
+        "long": -0.301634,
+        "city": "Richmond upon Thames",
+        "notes": "Freehold: Greene King"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.301634,
+          51.464283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Pig & Whistle",
+        "add": "Pig And Whistle, 86 Sheen Lane, East Sheen, London",
+        "postcode": "SW14 8LP",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.465867,
+        "long": -0.267274,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.267274,
+          51.465867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Plough",
+        "add": "42 Christchurch Road, East Sheen, London",
+        "postcode": "SW14 7AF",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.460778,
+        "long": -0.271001,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.271001,
+          51.460778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Prince Albert",
+        "add": "54-56 Hounslow Road, Twickenham",
+        "postcode": "TW2 7EX",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.454672,
+        "long": -0.358543,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.358543,
+          51.454672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Princes Head",
+        "add": "27-28 The Green, Richmond",
+        "postcode": "TW9 1LX",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.460341,
+        "long": -0.306358,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.306358,
+          51.460341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Railway Bell",
+        "add": "Station Road, Hampton",
+        "postcode": "TW12 2AP",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.415392,
+        "long": -0.368197,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.368197,
+          51.415392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Railway Tavern",
+        "add": "28-29 The Quadrant, Richmond",
+        "postcode": "TW9 1DN",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.462576,
+        "long": -0.302389,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.302389,
+          51.462576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Red Cow",
+        "add": "59 Sheen Road, Richmond",
+        "postcode": "TW9 1YJ",
+        "owner": "Punch Pubs & Co",
+        "status": "open",
+        "lat": 51.461731,
+        "long": -0.296806,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.296806,
+          51.461731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Red Lion",
+        "add": "164 Stanley Road, Teddington",
+        "postcode": "TW11 8UD",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.430878,
+        "long": -0.345125,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.345125,
+          51.430878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Red Lion",
+        "add": "2 Castelnau, Barnes, London",
+        "postcode": "SW13 9RU",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.475508,
+        "long": -0.238937,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.238937,
+          51.475508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Rifleman",
+        "add": "7 Fourth Cross Road, Twickenham",
+        "postcode": "TW2 5EL",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.44013,
+        "long": -0.348824,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.348824,
+          51.44013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Roebuck",
+        "add": "130 Richmond Hill, Richmond",
+        "postcode": "TW10 6RN",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.452473,
+        "long": -0.298532,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.298532,
+          51.452473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Roebuck",
+        "add": "72 Hampton Road, Hampton Hill",
+        "postcode": "TW12 1JN",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.428798,
+        "long": -0.351962,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.351962,
+          51.428798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Royal Oak",
+        "add": "45 Oak Avenue, Hampton",
+        "postcode": "TW12 3NR",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.423269,
+        "long": -0.381704,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.381704,
+          51.423269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Shack 68",
+        "add": "68 London Road, Twickenham",
+        "postcode": "TW1 3QS",
+        "owner": "Heineken",
+        "status": "open",
+        "lat": 51.449132,
+        "long": -0.329253,
+        "city": "Richmond upon Thames",
+        "notes": "Unclear ownership, formerly independent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.329253,
+          51.449132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Shaftesbury Arms",
+        "add": "121-123 Kew Road, Richmond",
+        "postcode": "TW9 2PN",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.465596,
+        "long": -0.299181,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.299181,
+          51.465596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Ship",
+        "add": "Thames Bank, Mortlake, London",
+        "postcode": "SW14 7QR",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.471349,
+        "long": -0.268062,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.268062,
+          51.471349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Slug & Lettuce",
+        "add": "The Slug And Lettuce, Water Lane, Richmond",
+        "postcode": "TW9 1TJ",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.45895347,
+        "long": -0.307888418,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.307888418,
+          51.45895347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Sun Inn",
+        "add": "17 Parkshot, Richmond",
+        "postcode": "TW9 2RG",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.464137,
+        "long": -0.302129,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.302129,
+          51.464137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Sun Inn",
+        "add": "7 Church Road, Barnes, London",
+        "postcode": "SW13 9HE",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.47363,
+        "long": -0.247448,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.247448,
+          51.47363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Sussex Arms",
+        "add": "15 Staines Road, Twickenham",
+        "postcode": "TW2 5BG",
+        "owner": "Morgan Pub Co",
+        "status": "open",
+        "lat": 51.444071,
+        "long": -0.345857,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.345857,
+          51.444071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Swan",
+        "add": "22 High Street, Hampton Wick",
+        "postcode": "KT1 4DB",
+        "owner": "Shepherd Neame",
+        "status": "open",
+        "lat": 51.41259,
+        "long": -0.310782,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.310782,
+          51.41259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Teddington Arms",
+        "add": "38-40 High Street, Teddington",
+        "postcode": "TW11 8EW",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.427027,
+        "long": -0.331756,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.331756,
+          51.427027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Three Kings",
+        "add": "Three Kings, 42 Heath Road, Twickenham",
+        "postcode": "TW1 4BZ",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.445446,
+        "long": -0.331863,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.331863,
+          51.445446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Tide End Cottage",
+        "add": "Tide End Cottage, 8 Ferry Road, Teddington",
+        "postcode": "TW11 9NN",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.429432,
+        "long": -0.323734,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.323734,
+          51.429432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Turk's Head",
+        "add": "28 Winchester Road, Twickenham",
+        "postcode": "TW1 1LF",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.456412,
+        "long": -0.323002,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.323002,
+          51.456412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Victoria",
+        "add": "10 West Temple Sheen, East Sheen, London",
+        "postcode": "SW14 7RT",
+        "owner": "Morgan Pub Co",
+        "status": "open",
+        "lat": 51.461098,
+        "long": -0.275596,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.275596,
+          51.461098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Victoria Inn",
+        "add": "78 Hill Rise, Richmond",
+        "postcode": "TW10 6UB",
+        "owner": "Punch Pubs & Co",
+        "status": "open",
+        "lat": 51.457319,
+        "long": -0.30385,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.30385,
+          51.457319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The White Hart",
+        "add": "1 High Street, Hampton Wick",
+        "postcode": "KT1 4DA",
+        "owner": "Fuller Smith & Turner",
+        "status": "open",
+        "lat": 51.411701,
+        "long": -0.311439,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.311439,
+          51.411701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The White Hart",
+        "add": "White Hart Inn, 121 Kneller Road, Twickenham",
+        "postcode": "TW2 7DY",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.455637,
+        "long": -0.354263,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.354263,
+          51.455637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The White Horse",
+        "add": "14-16 Worple Way, Richmond",
+        "postcode": "TW10 6DF",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.461554,
+        "long": -0.296178,
+        "city": "Richmond upon Thames",
+        "notes": "Freehold: Fuller Smith & Turner, locally managed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.296178,
+          51.461554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The White Swan",
+        "add": "25 Old Palace Lane, Richmond",
+        "postcode": "TW9 1PG",
+        "owner": "Fluid Pub Group",
+        "status": "open",
+        "lat": 51.461274,
+        "long": -0.311204,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.311204,
+          51.461274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Winning Post",
+        "add": "Chertsey Road, Twickenham",
+        "postcode": "TW2 6LS",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.447309,
+        "long": -0.356361,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.356361,
+          51.447309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Worlds End",
+        "add": "88 Station Road, Hampton",
+        "postcode": "TW12 2AX",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.415137,
+        "long": -0.366848,
+        "city": "Richmond upon Thames",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.366848,
+          51.415137
+        ]
+      }
+    }
+  ]
+}
