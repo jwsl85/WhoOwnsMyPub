@@ -1,0 +1,740 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "All Bar One",
+        "add": "37-39 Wimbledon Hill Road, Wimbledon",
+        "postcode": "SW19 7NA",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.422439,
+        "long": -0.208485,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.208485,
+          51.422439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dog and Fox",
+        "add": "Public House, 24 High Street, Wimbledon",
+        "postcode": "SW19 5EA",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.425096,
+        "long": -0.217636,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.217636,
+          51.425096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Earl Beatty",
+        "add": "365 West Barnes Lane, New Malden",
+        "postcode": "KT3 6JF",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.394897,
+        "long": -0.238246,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.238246,
+          51.394897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Formerly known as The Vale",
+        "add": "The Vale At Streatham, 1A Lilian Road, Streatham, London",
+        "postcode": "SW16 5HN",
+        "owner": "Unknown",
+        "status": "closed",
+        "lat": 51.412933,
+        "long": -0.142015,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.142015,
+          51.412933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ganleys Irish Bar",
+        "add": "43-47 London Road, Morden",
+        "postcode": "SM4 5HT",
+        "owner": "Deltaplace Developments Ltd",
+        "status": "open",
+        "lat": 51.402334,
+        "long": -0.193439,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.193439,
+          51.402334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hand & Racquet",
+        "add": "25-27 Wimbledon Hill Road, Wimbledon",
+        "postcode": "SW19 7NE",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.421905,
+        "long": -0.207742,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.207742,
+          51.421905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hemingways",
+        "add": "57 High Street, Wimbledon",
+        "postcode": "SW19 5EE",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.425605,
+        "long": -0.219164,
+        "city": "Merton",
+        "notes": "Unclear status, possible cocktail bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.219164,
+          51.425605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Horse and Groom",
+        "add": "The Horse And Groom, 131 Merton High Street, Colliers Wood, London",
+        "postcode": "SW19 1DE",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.415497,
+        "long": -0.191719,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.191719,
+          51.415497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiss Me Hardy",
+        "add": "Unit 5 Priory Retail Park, 131 High Street Collier's Wood, Colliers Wood",
+        "postcode": "SW19 2PP",
+        "owner": "Greene King",
+        "status": "closed",
+        "lat": 51.416219,
+        "long": -0.1789,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1789,
+          51.416219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miller & Carter",
+        "add": "The Mill House, Windmill Road, Mitcham",
+        "postcode": "CR4 1HT",
+        "owner": "Mitchells & Butlers",
+        "status": "closed",
+        "lat": 51.395179,
+        "long": -0.14523,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.14523,
+          51.395179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morden Brook",
+        "add": "The Morden Brook Public House, Lower Morden Lane, Morden",
+        "postcode": "SM4 4SS",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.391106,
+        "long": -0.221869,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.221869,
+          51.391106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prince Of Wales",
+        "add": "2 Hartfield Road, Wimbledon",
+        "postcode": "SW19 3TA",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.420496,
+        "long": -0.20618,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.20618,
+          51.420496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Purkins Wine Bar",
+        "add": "174 Streatham Road, Mitcham",
+        "postcode": "CR4 2AF",
+        "owner": "Independent",
+        "status": "closed",
+        "lat": 51.416904,
+        "long": -0.152463,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.152463,
+          51.416904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raynes Park Tavern",
+        "add": "32 Coombe Lane, Raynes Park",
+        "postcode": "SW20 0LA",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.409693,
+        "long": -0.230237,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.230237,
+          51.409693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rose & Crown",
+        "add": "55 High Street, Wimbledon",
+        "postcode": "SW19 5BA",
+        "owner": "Young's",
+        "status": "open",
+        "lat": 51.42578,
+        "long": -0.220196,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.220196,
+          51.42578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royal Standard",
+        "add": "The Royal Standard, 180 High Street Collier's Wood, Colliers Wood",
+        "postcode": "SW19 2BN",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.418432,
+        "long": -0.178367,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.178367,
+          51.418432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Alexandra",
+        "add": "31-33 Wimbledon Hill Road, Wimbledon",
+        "postcode": "SW19 7NE",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.421998,
+        "long": -0.208022,
+        "city": "Merton",
+        "notes": "Freehold: Young's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.208022,
+          51.421998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Cavern Public House",
+        "add": "100-102 Coombe Lane, Raynes Park",
+        "postcode": "SW20 0AY",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.409803,
+        "long": -0.233884,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.233884,
+          51.409803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Charles Holden",
+        "add": "198 High Street Collier's Wood, Colliers Wood",
+        "postcode": "SW19 2BH",
+        "owner": "Laine Pub Company",
+        "status": "open",
+        "lat": 51.417933,
+        "long": -0.178703,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.178703,
+          51.417933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Crown of Mitcham",
+        "add": "Carshalton Road, Mitcham",
+        "postcode": "CR4 4HJ",
+        "owner": "Fusion Feast Ltd",
+        "status": "open",
+        "lat": 51.390119,
+        "long": -0.159075,
+        "city": "Merton",
+        "notes": "Freehold: Heineken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.159075,
+          51.390119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Fox and Grapes",
+        "add": "9 Camp Road, Wimbledon",
+        "postcode": "SW19 4UN",
+        "owner": "Morgan Pub Co",
+        "status": "open",
+        "lat": 51.426306,
+        "long": -0.230432,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.230432,
+          51.426306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Gardeners Arms",
+        "add": "Gardeners Arms, 107 London Road, Mitcham",
+        "postcode": "CR4 2JA",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.410197,
+        "long": -0.161735,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.161735,
+          51.410197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Garratt And Gauge Wimbledon",
+        "add": "18 Hartfield Road, Wimbledon",
+        "postcode": "SW19 3TA",
+        "owner": "Stonegate",
+        "status": "open",
+        "lat": 51.419748,
+        "long": -0.205423,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.205423,
+          51.419748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The George Inn",
+        "add": "Epsom Road, Morden",
+        "postcode": "SM4 5PJ",
+        "owner": "Mitchells & Butlers",
+        "status": "open",
+        "lat": 51.391606,
+        "long": -0.203876,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.203876,
+          51.391606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Gorringe Park",
+        "add": "Gorringe Park Hotel, 29 London Road, Tooting, London",
+        "postcode": "SW17 9JR",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.419331,
+        "long": -0.161641,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.161641,
+          51.419331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Leather Bottle",
+        "add": "277 Kingston Road, Wimbledon",
+        "postcode": "SW19 3NW",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.411226,
+        "long": -0.20902,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.20902,
+          51.411226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Nelson Arms",
+        "add": "15 Merton High Street, Colliers Wood, London",
+        "postcode": "SW19 1DF",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.415838,
+        "long": -0.186719,
+        "city": "Merton",
+        "notes": "Freehold: Heineken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.186719,
+          51.415838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Ravensbury Arms",
+        "add": "Croydon Road, Mitcham",
+        "postcode": "CR4 4JA",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.397663,
+        "long": -0.157895,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.157895,
+          51.397663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Rushmere",
+        "add": "89 Ridgway, Wimbledon",
+        "postcode": "SW19 4SU",
+        "owner": "Greene King",
+        "status": "open",
+        "lat": 51.420737,
+        "long": -0.220612,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.220612,
+          51.420737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Sultan Public House",
+        "add": "The Sultan, 78 Norman Road, Colliers Wood, London",
+        "postcode": "SW19 1BT",
+        "owner": "Hop Back",
+        "status": "open",
+        "lat": 51.418562,
+        "long": -0.185214,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.185214,
+          51.418562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The William Morris",
+        "add": "20 Watermill Way, Colliers Wood, London",
+        "postcode": "SW19 2RD",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.413265,
+        "long": -0.183182,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.183182,
+          51.413265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Windmill",
+        "add": "Pub The Windmill Public House, 40 Commonside West, Mitcham",
+        "postcode": "CR4 4HA",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.402982,
+        "long": -0.161578,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.161578,
+          51.402982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Woodman Hotel",
+        "add": "222 Durnsford Road, Wimbledon Park, London",
+        "postcode": "SW19 8DR",
+        "owner": "Amtel Ventures Ltd",
+        "status": "open",
+        "lat": 51.433651,
+        "long": -0.195955,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.195955,
+          51.433651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Lion of Mortimer",
+        "add": "223 London Road, Mitcham",
+        "postcode": "CR4 2JD",
+        "owner": "Independent",
+        "status": "open",
+        "lat": 51.406996,
+        "long": -0.163502,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.163502,
+          51.406996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wibbas Down Inn",
+        "add": "Collingham House, 6-12 Gladstone Road, Wimbledon",
+        "postcode": "SW19 1QT",
+        "owner": "JD Wetherspoon",
+        "status": "open",
+        "lat": 51.418995,
+        "long": -0.202306,
+        "city": "Merton",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.202306,
+          51.418995
+        ]
+      }
+    }
+  ]
+}
